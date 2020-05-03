@@ -1,0 +1,8 @@
+name: arduino-uno
+keyword_file: arduino-uno-keywords.csv
+
+negative_exact_keywords:
+  - kit
+
+negative_any_keywords:
+  - kit

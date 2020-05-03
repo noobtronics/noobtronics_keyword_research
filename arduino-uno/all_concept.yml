@@ -1,0 +1,166 @@
+'Concept: Board':
+- arduino bt
+- arduino due
+- arduino duemilanove
+- arduino ethernet
+- arduino fio
+- arduino leonardo
+- arduino m0
+- arduino mega
+- arduino micro
+- arduino mini
+- arduino mkr1000
+- arduino nano
+- arduino pro
+- arduino uno
+- arduino yun
+- arduino zero
+- chipkit uno32
+- esplora
+- lilypad
+- seeeduino
+'Concept: Company':
+- adafruit
+- alibaba
+- amazon
+- atmega
+- attiny
+- avr
+- dfrobot
+- digikey
+- ebay
+- freescale
+- infineon
+- intel
+- nokia
+- nxp
+- renesas
+- sparkfun
+- st
+'Concept: Component':
+- battery
+- display
+- processor
+- sensor
+'Concept: Microcontroller':
+- atmega128
+- atmega1284p
+- atmega16
+- atmega168
+- atmega2560
+- atmega32
+- atmega328
+- atmega328p
+- atmega32u4
+- atmega644
+- atmega644p
+- atmega8
+- attiny13
+- attiny2313
+- attiny24
+- attiny25
+- attiny45
+- attiny84
+- attiny85
+'Concept: Non-Brands':
+- Non-Brands
+'Concept: Other Brands':
+- adeept
+- aliexpress
+- altium
+- ameba arduino
+- amica
+- anet
+- arducam
+- arduino aquarium controller
+- arduino cloud
+- arduino ino
+- arduino javascript
+- arduino playground
+- arduino plc
+- arduino shield list
+- atheros
+- blynk
+- catalex
+- chipkit
+- digistump
+- exploring arduino
+- fastled
+- firebase
+- firefly grasshopper
+- freenove
+- freetronics
+- fritzing
+- ftdi
+- funduino
+- github
+- grabcad
+- ibeacon
+- iduino
+- ifttt
+- industrial shield
+- instructables
+- inviot
+- jtag
+- keil
+- keyestudio
+- kickstarter
+- kuman
+- lotus
+- makeblock
+- makey makey
+- micro center
+- microchip
+- monster moto
+- mqtt arduino
+- mysql
+- nema
+- nextion
+- node red
+- olimex
+- olx
+- only
+- parallax
+- particle photon
+- picaxe
+- pjrc
+- python
+- quectel
+- rees52
+- remotexy
+- robojax
+- ruggeduino
+- sch
+- sigfox
+- simcom
+- slideshare
+- sonoff
+- sony
+- sram
+- stm32duino
+- stm32f4 discovery
+- sunfounder
+- tensilica
+- thingspeak
+- ti
+- tinkercad
+- tinyduino projects
+- tower pro
+- ttn
+- udemy
+- ulp
+- visuino
+- wemos
+- xbee
+'Concept: Others':
+- robots
+'Concept: Technology':
+- bluetooth
+- ethernet
+- gps
+- gsm
+- infrared
+- rs232
+- rs485
+- usb
+- wifi

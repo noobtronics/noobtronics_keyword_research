@@ -1,14 +1,32 @@
 import pandas as pd
+import yaml
+from bs4 import BeautifulSoup
+import shutil
+from pd_helper import generate_files
+from pprint import pprint
+
+with open("config.yml", "r") as ymlfile:
+    config = yaml.load(ymlfile, Loader=yaml.Loader)
+
+pprint(config)
 
 # to read csv file named "samplee"
-raw_data = pd.read_csv("arduino-uno-keywords.csv", sep='\t', na_filter=False, skiprows=2,encoding='utf-16')
+raw_data = pd.read_csv(config['keyword_file'], sep='\t', na_filter=False, skiprows=2,encoding='utf-16')
 
 cols = raw_data.columns
 concept_cols = [k for k in cols if k.startswith('Concept')]
 
+raw_data['wordcount'] = raw_data['Keyword'].str.split().str.len()
+
+raw_data['splitwords']= "'" + raw_data['Keyword'].str.split().str.join("','") + "'"
+
+raw_data.sort_values(by=['wordcount'], inplace=True, ascending=False)
+
 
 selected_cols = [
     'Keyword',
+    'splitwords',
+    'wordcount',
     'Min search volume',
     'Max search volume',
 ]
@@ -18,7 +36,5 @@ data_list = []
 for c in selected_cols:
     data_list.append(raw_data[c])
 
-
 extracted_data = pd.DataFrame(data_list).transpose()
-
-print(extracted_data)
+generate_files(extracted_data, 'all', concept_cols)
