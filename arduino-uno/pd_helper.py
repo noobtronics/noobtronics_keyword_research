@@ -1,8 +1,37 @@
 import pandas as pd
 import yaml
 
+
+style = """
+
+<style>
+  table {
+    border-collapse: collapse;
+    white-space: nowrap;
+
+  }
+
+
+  table, th, td{
+    border: 1px solid #c0c0c0;
+    padding: 4px 10px;
+    padding-right: 30px;
+    font-family: Verdana;
+  }
+  th{
+    text-align: center !important;
+  }
+</style>
+
+"""
+
+
 def generate_files(data, name, concept_cols):
-    data.to_html('{0}_keywords.html'.format(name))
+    html_str = data.to_html()
+    html_str = style + html_str
+
+    with open('{0}_keywords.html'.format(name), 'w') as fil:
+        fil.write(html_str)
 
 
     concept_info = {}

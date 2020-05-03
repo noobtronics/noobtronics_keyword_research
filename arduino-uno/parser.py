@@ -8,7 +8,6 @@ from pprint import pprint
 with open("config.yml", "r") as ymlfile:
     config = yaml.load(ymlfile, Loader=yaml.Loader)
 
-pprint(config)
 
 # to read csv file named "samplee"
 raw_data = pd.read_csv(config['keyword_file'], sep='\t', na_filter=False, skiprows=2,encoding='utf-16')
@@ -38,3 +37,10 @@ for c in selected_cols:
 
 extracted_data = pd.DataFrame(data_list).transpose()
 generate_files(extracted_data, 'all', concept_cols)
+
+exact_negative = []
+for n in config['negative_exact_keywords']:
+    exact_negative.append("'{0}'".format(n))
+
+extracted_data_n = extracted_data[~extracted_data['splitwords'].str.contains('|'.join(exact_negative))]
+generate_files(extracted_data_n, 'filtered', concept_cols)

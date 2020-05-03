@@ -3,6 +3,19 @@ keyword_file: arduino-uno-keywords.csv
 
 negative_exact_keywords:
   - kit
+  - nano
+  - mega
+  - pro
+  - stm32
+  - sim900
+  - sim808
+  - sensor
+  - kickstarter
+  - shield
+  - pic
+  - raspberry
+  - pi
+  - wifi
 
 negative_any_keywords:
-  - kit
+  - sim
