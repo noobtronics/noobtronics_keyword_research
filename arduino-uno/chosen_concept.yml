@@ -1,0 +1,23 @@
+'Concept: Board':
+- arduino uno
+'Concept: Company':
+- atmega
+- avr
+'Concept: Component':
+- processor
+- sensor
+'Concept: Microcontroller':
+- atmega128
+- atmega16
+- atmega32
+- atmega328
+- atmega328p
+- atmega32u4
+- atmega8
+'Concept: Other Brands':
+- ftdi
+- microchip
+'Concept: Others':
+- robots
+'Concept: Technology':
+- usb

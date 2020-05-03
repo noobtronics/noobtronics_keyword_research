@@ -1,22 +1,17 @@
 'Concept: Board':
 - arduino bt
 - arduino due
-- arduino duemilanove
 - arduino ethernet
-- arduino fio
 - arduino leonardo
 - arduino m0
 - arduino mega
 - arduino micro
 - arduino mini
-- arduino mkr1000
 - arduino nano
 - arduino pro
 - arduino uno
 - arduino yun
 - arduino zero
-- chipkit uno32
-- esplora
 - lilypad
 - seeeduino
 'Concept: Company':
@@ -54,12 +49,10 @@
 - atmega32u4
 - atmega644
 - atmega644p
+- atmega8
 - attiny13
-- attiny2313
-- attiny24
 - attiny25
 - attiny45
-- attiny84
 - attiny85
 'Concept: Non-Brands':
 - Non-Brands

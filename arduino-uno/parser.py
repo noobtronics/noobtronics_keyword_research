@@ -39,6 +39,7 @@ extracted_data = pd.DataFrame(data_list).transpose()
 generate_files(extracted_data, 'all', concept_cols)
 
 exact_negative = []
+config['negative_exact_keywords'] = list(set(config['negative_exact_keywords']))
 for n in config['negative_exact_keywords']:
     exact_negative.append("'{0}'".format(n))
 

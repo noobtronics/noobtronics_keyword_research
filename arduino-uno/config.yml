@@ -17,6 +17,7 @@ negative_exact_keywords:
   - digispark
   - yun
   - due
+  - leonardo
   - sensor
   - kickstarter
   - shield
@@ -28,7 +29,23 @@ negative_exact_keywords:
   - lcd
   - tft
   - motor
-  - atmega8
+  - atmega2560
+  - attiny13
+  - attiny2313
+  - attiny24
+  - attiny25
+  - attiny45
+  - attiny84
+  - attiny85
+  - duemilanove
+  - ethernet
+  - fio
+  - leonardo
+  - m0
+  - mkr1000
+  - zero
+  - uno32
+  - esplora
 
 
 negative_any_keywords:
