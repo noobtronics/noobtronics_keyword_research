@@ -6,9 +6,17 @@ negative_exact_keywords:
   - nano
   - mega
   - pro
+  - lilypad
+  - esp8266
+  - esp32
   - stm32
+  - attiny85
   - sim900
   - sim808
+  - d1
+  - digispark
+  - yun
+  - due
   - sensor
   - kickstarter
   - shield
@@ -16,6 +24,12 @@ negative_exact_keywords:
   - raspberry
   - pi
   - wifi
+  - cortex
+  - lcd
+  - tft
+  - motor
+  - atmega8
+
 
 negative_any_keywords:
   - sim
