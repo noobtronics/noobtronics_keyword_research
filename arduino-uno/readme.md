@@ -19,7 +19,7 @@
 - [ ] arduino uno features
 - [ ] arduino uno uses
 - [ ] arduino uno download
-- [ ] arduino uno meaning
+- [x] arduino uno meaning
 - [x] arduino uno dimensions
 
 ### Keywords
