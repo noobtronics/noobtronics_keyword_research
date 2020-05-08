@@ -21,3 +21,8 @@
 - arduino uno download
 - arduino uno meaning
 - arduino uno dimensions
+
+### Keywords
+- arduino uno block diagram
+- arduino uno ide
+- arduino uno memory
