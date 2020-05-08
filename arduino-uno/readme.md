@@ -13,8 +13,8 @@
 - [ ] arduino uno pinout pdf
 - [ ] arduino uno pinout diagram
 - [ ] arduino uno pin diagram
-- [ ] specifications of arduino uno
-- [ ] arduino uno description
+- [x] specifications of arduino uno
+- [x] arduino uno description
 - [ ] arduino uno schematic
 - [ ] arduino uno features
 - [ ] arduino uno uses
