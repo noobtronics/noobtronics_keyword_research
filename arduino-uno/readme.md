@@ -20,9 +20,9 @@
 - [ ] arduino uno uses
 - [ ] arduino uno download
 - [ ] arduino uno meaning
-- [ ] arduino uno dimensions
+- [x] arduino uno dimensions
 
 ### Keywords
 - [ ] arduino uno block diagram
 - [ ] arduino uno ide
-- [ ] arduino uno memory
+- [x] arduino uno memory
