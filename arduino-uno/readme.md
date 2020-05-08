@@ -2,7 +2,7 @@
 
 ### Questions
 - [x] what arduino uno ?
-- [ ] can arduino uno connect to wifi ?
+- [x] can arduino uno connect to wifi ?
 
 ### Preposition
 - [ ] driver for arduino uno
