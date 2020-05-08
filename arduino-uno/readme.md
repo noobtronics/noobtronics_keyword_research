@@ -9,7 +9,7 @@
 - [ ] datasheet for arduino uno
 
 ### Related
-- [ ] arduino uno total pins
+- [x] arduino uno total pins
 - [ ] arduino uno pinout pdf
 - [ ] arduino uno pinout diagram
 - [ ] arduino uno pin diagram
