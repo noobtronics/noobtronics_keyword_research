@@ -10,9 +10,9 @@
 
 ### Related
 - [x] arduino uno total pins
-- [ ] arduino uno pinout pdf
-- [ ] arduino uno pinout diagram
-- [ ] arduino uno pin diagram
+- [x] arduino uno pinout pdf
+- [x] arduino uno pinout diagram
+- [x] arduino uno pin diagram
 - [x] specifications of arduino uno
 - [x] arduino uno description
 - [ ] arduino uno schematic
