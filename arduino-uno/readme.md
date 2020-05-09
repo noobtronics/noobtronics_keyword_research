@@ -29,11 +29,11 @@
 
 
 ### Purchase Signals
-- [ ] buy
+- [x] buy
 - [ ] purchase
 - [ ] cheap
 - [ ] Cheapest
-- [ ] free shipping
+- [x] free shipping
 - [ ] Step by step
 - [ ] tutorials
 - [ ] in stock
@@ -46,4 +46,5 @@
 - [ ] Cheapest price
 - [ ] Faster
 - [ ] Low cost
+- [x] Online
 
