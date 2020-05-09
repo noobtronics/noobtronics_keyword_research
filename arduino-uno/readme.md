@@ -30,13 +30,13 @@
 
 ### Purchase Signals
 - [x] buy
-- [ ] purchase
+- [x] purchase
 - [ ] cheap
 - [ ] Cheapest
 - [x] free shipping
 - [ ] Step by step
 - [ ] tutorials
-- [ ] in stock
+- [x] in stock
 - [ ] Install
 - [ ] Instruction
 - [ ] Instruction
@@ -44,6 +44,7 @@
 - [ ] Save
 - [ ] Budget
 - [ ] Cheapest price
+- [x] price
 - [ ] Faster
 - [x] Low cost
 - [x] Online
