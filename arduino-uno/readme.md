@@ -45,6 +45,6 @@
 - [ ] Budget
 - [ ] Cheapest price
 - [ ] Faster
-- [ ] Low cost
+- [x] Low cost
 - [x] Online
 
