@@ -26,3 +26,24 @@
 - [ ] arduino uno block diagram
 - [ ] arduino uno ide
 - [x] arduino uno memory
+
+
+### Purchase Signals
+- [ ] buy
+- [ ] purchase
+- [ ] cheap
+- [ ] Cheapest
+- [ ] free shipping
+- [ ] Step by step
+- [ ] tutorials
+- [ ] in stock
+- [ ] Install
+- [ ] Instruction
+- [ ] Instruction
+- [ ] New
+- [ ] Save
+- [ ] Budget
+- [ ] Cheapest price
+- [ ] Faster
+- [ ] Low cost
+
