@@ -6,3 +6,16 @@ Keyword - Modifier - Brand
 
 Modifiers
 - Buy, Guide, Review, Online, Offers, Cheap, Year
+
+
+## Headline
+Number or Trigger word - Adjective - Keyword - Promise
+
+For users to not bounce
+
+Tips
+- sweet and short 6 words
+- use numbers
+- use interesting adjectives
+- try negative words - no, without, stop
+- match the content
