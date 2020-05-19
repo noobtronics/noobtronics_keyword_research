@@ -52,14 +52,13 @@ Put most popular keywords in first 100 than less popular
 - call to action
   - different color
   
-## Video
+#### Video
 Youtube is second most popular search engine
 
-## LSI - Latent Semantic Indexing
+#### LSI - Latent Semantic Indexing
 Use related keywords
 
-
-
+#### Social Sharing
 
 
 
