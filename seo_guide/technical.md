@@ -19,3 +19,6 @@ Tips
 - use interesting adjectives
 - try negative words - no, without, stop
 - match the content
+
+## Content
+First 100 words very important
