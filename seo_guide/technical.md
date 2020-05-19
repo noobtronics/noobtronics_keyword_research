@@ -41,6 +41,23 @@ Put most popular keywords in first 100 than less popular
 - not more than 2 slashesh
 
 
+#### Readability
+- short simple to read words
+- short sentence : 3-4 lines (mobile) 5-6 desktop
+- write active voice
+- use subheading
+- image every 75-100 word
+- quotes
+- list
+- call to action
+  - different color
+  
+## Video
+Youtube is second most popular search engine
+
+## LSI - Latent Semantic Indexing
+Use related keywords
+
 
 
 
