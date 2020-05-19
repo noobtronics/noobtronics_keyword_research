@@ -61,4 +61,9 @@ Use related keywords
 #### Social Sharing
 
 
-
+#### Google Analytics 
+- Session Duration: 2mins
+- Bounce Rate: Lower the better
+  - Retail: 20 to 40%
+  - Landing Page: 70 to 90%
+  - Content: 40 to 60%
