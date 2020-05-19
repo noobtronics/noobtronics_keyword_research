@@ -22,3 +22,4 @@ Tips
 
 ## Content
 First 100 words very important
+Put most popular keywords in first 100 than less popular
