@@ -21,6 +21,28 @@ Tips
 - match the content
 
 ## Content
-First 100 words very important
-
+#### First 100 words very important
 Put most popular keywords in first 100 than less popular
+
+#### Internal Links
+- atleast 3-4 internal links for every 1500 words
+- anchored text with keyword stuffing
+
+#### External Links
+- builds trust
+- tells google you are related
+
+#### URLs
+- short url perform well
+- 3-5 words
+- medium tail keywords in url
+- avoid ugly
+- use hyphens not underscore
+- not more than 2 slashesh
+
+
+
+
+
+
+
