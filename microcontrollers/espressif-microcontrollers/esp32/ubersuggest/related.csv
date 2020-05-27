@@ -1,0 +1,1315 @@
+No,Keyword,Search Volume,CPC,Paid Difficulty,Search Difficulty
+0,esp32,6600,11.315364703199998,82,57
+1,esp32 pinout,1300,2.8970973971999996,24,26
+2,esp32 cam,880,2.9805216677999997,100,49
+3,esp32 datasheet,720,7.675032895199999,92,46
+4,esp32 arduino,590,4.8765278177999996,98,48
+5,arduino esp32,590,4.8765278177999996,98,48
+6,nodemcu esp32,480,4.095373284,100,49
+7,esp32 camera,480,2.4572239704,100,49
+8,node mcu esp32,480,4.095373284,100,44
+9,esp32 projects,390,3.6934199802,61,37
+10,esp32 pinout diagram,320,6.560181278999999,11,17
+11,esp32 pin diagram,320,6.560181278999999,11,17
+12,esp32 wroom,260,28.356667979399997,100,49
+13,esp32 vs esp8266,260,4.7551834242,100,44
+14,esp32 module,260,5.8700350403999995,100,49
+15,bluetooth esp32,210,4.838607694799999,91,46
+16,esp32 wroom 32,210,12.468136442399999,100,44
+17,esp32 bluetooth,210,4.838607694799999,91,46
+18,micropython esp32,210,9.487614774599999,100,49
+19,esp32 price,210,4.664175128999999,100,49
+20,esp32 micropython,210,9.487614774599999,100,49
+21,esp32 wroom 32d,210,27.404114489639998,100,44
+22,esp32 board,170,4.6717591536,100,49
+23,esp32 programming,170,7.242743493,88,45
+24,esp32 development board,170,6.772533967799999,100,44
+25,esp32 nodemcu,170,9.4496946516,100,49
+26,esp32 specification,140,9.6999674634,98,48
+27,esp32 wroom pinout,140,4.0422851118,34,24
+28,esp32 cam pinout,140,3.5189874143999993,29,22
+29,esp32 wrover,140,12.839753647799999,100,49
+30,esp32 specs,140,9.6999674634,98,48
+31,esp32 camera module,140,1.7594937071999996,99,43
+32,esp8266 vs esp32,140,3.9285247427999996,78,37
+33,esp32 idf,110,0.0,5,20
+34,buy esp32,110,18.9600615,100,49
+35,espressif esp32,110,18.3457555074,100,49
+36,esp32 sim800l,110,1.9794304206,99,48
+37,esp32 devkit v1,110,3.7010040047999997,100,44
+38,esp32 where to buy,110,18.961805825657997,100,36
+39,esp32 arduino ide,110,0.0,14,18
+40,esp32 buy,110,9.6241272174,100,49
+41,esp32 pins,110,3.5796596111999994,29,27
+42,esp32 wroom 32 pinout,110,50.35595149760399,54,22
+43,nodemcu esp32 pinout,90,4.3153099974,33,23
+44,esp32 wifi,90,8.949149027999999,99,48
+45,esp32 github,90,0.0,1,19
+46,esp32 dev kit,90,13.878765018,100,44
+47,esp32 devkit,90,13.878765018,100,49
+48,esp32 schematic,90,17.890714031399998,33,28
+49,esp32 web server,90,0.0,1,14
+50,esp32 tutorials,90,0.0,3,19
+51,esp32 gpio pins,90,0.0,8,16
+52,esp32 tutorial,90,3.2080424057999997,6,21
+53,esp32 lora,90,0.0834242706,49,33
+54,esp32 board manager,70,0.0,1,14
+55,esp32 wrover b,70,11.228072580053999,100,44
+56,esp32 cam project,70,2.7530009297999998,51,29
+57,esp32 camera arduino,70,0.0,21,20
+58,esp32 cam datasheet,70,5.938291261799999,53,30
+59,esp32 forum,70,0.0,1,18
+60,esp32 price in india,70,24.033773957399998,74,28
+61,esp32 ota,50,0.0,1,19
+62,esp32 arduino examples,50,0.0,6,16
+63,esp32 microcontroller,50,6.370580664,92,46
+64,esp32 bluetooth example,50,0.0,1,13
+65,esp32 devkit v1 schematic,50,0.0,10,9
+66,esp32 wifi range,50,6.896305249271999,84,39
+67,esp32 india,50,9.070493421599998,33,28
+68,esp32 devkit v1 pinout,50,0.0,1,6
+69,esp32 mqtt,50,0.0,4,20
+70,esp32 features,40,15.880947512399999,60,37
+71,esp32 chip,40,4.2015496284,100,49
+72,esp32 led blink,40,0.0,5,15
+73,esp32 ethernet,40,118.07304802888902,53,35
+74,esp32 devkitc v4,40,9.334417477679999,100,44
+75,esp32 freertos,40,8.381181425706,69,39
+76,esp32 cam schematic,40,0.0,43,26
+77,esp32 library,40,0.0,3,19
+78,esp32 lyrat,40,27.8485383312,88,45
+79,esp32 power supply,40,4.651813168902,62,32
+80,esp32 bluetooth arduino,40,0.0,42,26
+81,esp32 analog input,40,0.0,26,21
+82,esp32 with arduino,40,6.716336345514,48,28
+83,esp32 arduino setup,40,0.0,15,18
+84,esp32 home automation,40,5.3239852692,93,42
+85,esp32 interrupt pins,30,0.0,1,14
+86,esp32 vs nodemcu,30,3.9267804171419995,94,42
+87,esp32 power consumption,30,0.0,2,14
+88,how to install esp32 in arduino,30,0.0,5,7
+89,esp32 wiki,30,0.0,1,19
+90,esp32 software serial,30,0.0,1,13
+91,getting started with esp32,30,0.0,1,5
+92,esp32 programming guide,30,0.0,37,25
+93,esp32 touch sensor,30,0.0,61,32
+94,esp32 wroom datasheet,30,63.3721095576,4,15
+95,esp32 arduino board manager,30,11.315364703199998,22,12
+96,esp32 adc,30,0.0,38,30
+97,esp32 getting started,30,0.0,1,13
+98,spiff esp32,30,0.0,1,18
+99,esp32 not connecting to wifi,20,0.0,35,16
+100,esp32 ai thinker,20,3.919348073034,100,44
+101,esp32 cost,20,86.1996427155363,89,45
+102,blynk esp32,20,0.0,7,21
+103,esp32 adafruit,20,343.9431716316693,86,45
+104,esp32 spi example,20,0.0,3,15
+105,esp32 aws iot,20,94.4666104176,18,19
+106,esp32 eclipse,20,0.0,1,18
+107,esp32 module datasheet,20,11.457641004695999,100,44
+108,esp32 alexa,20,0.0,8,21
+109,wemos esp32,20,491.2661740936206,95,47
+110,esp32 ram,20,2.403832437216,79,42
+111,esp32 wifi module,20,459.99233389956316,100,44
+112,esp32 spi,20,0.0,20,25
+113,esp32 spiffs,20,0.0,1,18
+114,stm32 vs esp32,20,0.0,35,24
+115,learn esp32 with arduino ide pdf,20,0.0,21,12
+116,esp32 technical reference manual,20,0.0,1,6
+117,programming esp32,20,0.0,62,37
+118,esp32 bluetooth classic,20,0.0,6,15
+119,esp32 development board india,20,9.525534897599998,100,36
+120,esp32 display,20,3.2753885442479995,100,49
+121,esp32 rtc,20,0.0,14,23
+122,esp32 to esp32 communication,20,0.0,1,5
+123,esp32 examples,20,0.0,1,19
+124,esp32 i2c,20,0.0,7,21
+125,powering esp32 with battery,20,0.0,89,32
+126,ttgo esp32 lora,20,3.9017531359619997,99,43
+127,nodemcu vs esp32,20,6.982611449219999,15,18
+128,esp32 install,20,0.0,31,28
+129,esp32 iot projects,20,2.727291086406,61,32
+130,esp32 mqtt broker,20,9.152249206788,4,15
+131,esp32 uart example,20,0.0,1,14
+132,esp32 development board schematic,20,74.30068900619999,9,8
+133,esp32 development board pinout,20,0.0,23,13
+134,programing esp32,20,19.736286417809996,59,36
+135,esp32 38 pin pinout,20,0.914330005776,23,13
+136,esp32 http server,20,0.0,1,13
+137,esp32 arduino core,20,0.0,28,22
+138,esp32 with arduino ide,20,0.0,22,12
+139,esp32 hardware design guidelines,20,0.0,5,7
+140,esp32 amazon,20,1.7215735842,100,49
+141,esp32 buy india,20,8.3955152322,100,44
+142,ttgo esp32,20,213.33143868197425,60,37
+143,esp32 temperature sensor,20,0.0,13,18
+144,esp32 pico kit,20,405.98982241045337,59,31
+145,esp32 eagle library,20,0.0,3,14
+146,doit esp32 devkit v1 pinout,20,0.0,32,15
+147,esp32 ide,20,3.0866980122,7,21
+148,esp32 with gsm module,20,3.3034494352679995,100,36
+149,esp32 documentation,20,0.0,1,18
+150,esp32 video streaming,20,0.0,1,14
+151,esp32 gateway,20,69.89049540763192,37,30
+152,esp32 ethernet shield,20,4.547229469667999,100,44
+153,esp32 sd card,20,449.48154596953276,39,25
+154,how to install esp32 in arduino ide,20,0.0,1,6
+155,esp32 library for arduino ide,20,0.0,1,5
+156,esp32 oled,20,207.26035062947028,88,45
+157,esp32 development kit,20,0.0,21,20
+158,esp32 flash memory,20,4.83709088988,78,37
+159,esp32 debugger,20,161.841871520064,90,46
+160,esp32 range,20,0.0,3,19
+161,esp32 sdk,20,0.0,1,19
+162,esp32 pico,20,1615.990648689551,51,34
+163,esp32 38 pin,20,7.10395584282,100,44
+164,esp32 devkitc v4 pinout,20,5.498114474016,37,17
+165,esp32 with lora,20,1.447335254664,100,44
+166,esp32 mesh,20,0.0,6,21
+167,esp32 google assistant,20,0.0,11,17
+168,esp32 vs esp32s,20,0.0,2,14
+169,esp32 spi pins,20,0.0,13,17
+170,home automation using esp32,20,0.0,1,6
+171,doit esp32 devkit v1,20,6.887280259998,99,35
+172,esp32 jtag pins,10,7.45850899287,45,27
+173,esp32 without usb,10,0.0,100,44
+174,esp32 rmt,10,0.0,1,18
+175,esp32 for sale,10,0.0,1,13
+176,sim800l esp32,10,0.0,1,18
+177,esp32 with oled,10,2.86638209757,100,44
+178,tinypico esp32,10,0.0,29,27
+179,dht11 esp32,10,0.0,19,24
+180,esp32 microphone,10,252.7397229600813,39,30
+181,datasheet esp32,10,68.18129123695199,80,43
+182,esp32 5v relay,10,0.0,42,26
+183,esp32 kicad,10,0.0,1,18
+184,esp32 enc28j60,10,0.0,6,20
+185,esp32 with ethernet,10,5.423184310968,100,44
+186,esp32 can,10,0.0,66,39
+187,esp32 development,10,719.5081605677279,37,30
+188,esp32 devkitv1,10,0.0,55,35
+189,esp32 azure iot,10,35.03212643232,87,40
+190,espressif esp32 development board,10,0.0,71,27
+191,esp32 obd2,10,0.0,10,22
+192,esp32 development board dimensions,10,0.0,100,36
+193,esp32 12v,10,0.0,1,18
+194,doit esp32 devkit v1 schematic,10,0.0,20,12
+195,esp32 xtaskcreate,10,0.0,1,18
+196,ttgo camera esp32,10,0.0,1,13
+197,esp32 cam box,10,0.0,100,44
+198,programming esp32 cam,10,0.0,1,13
+199,esp32 javascript,10,0.0,1,18
+200,esp32 sleep,10,0.0,1,18
+201,idf esp32,10,0.0,1,18
+202,internet of things projects with esp32,10,0.0,16,11
+203,jtag esp32,10,0.0,27,27
+204,esp32 3d model,10,0.0,1,13
+205,esp32 gps,10,0.0,17,24
+206,esp32 i2c arduino,10,0.0,9,16
+207,learn esp32 with arduino ide,10,0.0,42,18
+208,adafruit esp32,10,6.5753493282,95,47
+209,esp32 vga,10,0.0,3,20
+210,jtag debugger for esp32,10,7.788186542231999,100,36
+211,iot projects using esp32,10,0.0,23,12
+212,programming esp32 with python,10,0.0,8,8
+213,oled display esp32,10,0.0,65,33
+214,esp32 keyboard,10,0.0,1,18
+215,lorawan esp32,10,2.2372872569999998,99,48
+216,esp32 high resolution camera,10,0.0,1,5
+217,face recognition esp32,10,0.0,14,18
+218,esp32 hid,10,0.0,1,18
+219,bootloader esp32,10,0.0,1,18
+220,esp32 json parser,10,0.0,1,13
+221,esp32 breakout board,10,303.4654564117651,92,41
+222,esp32 online,10,4.349210587362,100,49
+223,wifi connect esp32,10,0.0,100,44
+224,esp32 arduino home automation,10,0.0,2,6
+225,esp32 nodemcu price,10,3.232007923536,100,44
+226,mfrc522 esp32,10,0.0,1,18
+227,esp32 nrf24l01,10,0.0,8,21
+228,esp32 uart pins,10,0.0,9,16
+229,esp32 core board,10,0.0,1,13
+230,esp32 ov2640,10,0.0,21,25
+231,esp32 can bus pins,10,0.0,16,10
+232,makerfocus esp32 development board,10,0.0,1,5
+233,vibration sensor esp32,10,0.0,1,13
+234,esp32 5ghz,10,0.0,12,22
+235,esp32 mpu 9250,10,0.0,14,18
+236,esp32 for beginners,10,0.0,14,18
+237,esp32 deep sleep,10,336.5129391002808,6,16
+238,esp32 with camera,10,138.40783287640718,58,31
+239,analog read esp32,10,0.0,1,13
+240,esp32 4mb,10,3.855111384672,100,49
+241,esp32 button,10,0.0,42,31
+242,esp32 operating system,10,0.0,1,13
+243,esp32 for arduino,10,0.0,84,39
+244,esp32 c programming,10,16.606207784897997,63,33
+245,esp32 youtube,10,0.0,1,18
+246,esp32 aliexpress,10,32.277608697599995,76,42
+247,pwm esp32,10,0.0,23,26
+248,micropython esp32 and esp8266 pdf,10,0.0,2,6
+249,esp32 capacitive touch,10,0.0,52,29
+250,esp32 huzzah,10,0.0,1,18
+251,esp32 vs raspberry pi,10,0.0,44,19
+252,esp32 raspberry pi,10,0.0,45,27
+253,esp32 json,10,0.0,1,18
+254,tensorflow esp32,10,0.0,1,18
+255,esp32 mesh example,10,0.0,1,13
+256,lora with esp32,10,2.133992841948,100,44
+257,esp32 iot,10,0.0,11,22
+258,esp32 7 inch display,10,0.0,100,36
+259,esp32 queue,10,0.0,1,18
+260,micropython programming with esp32 and esp8266 ebook,10,0.0,17,11
+261,touch sensor esp32,10,0.0,2,14
+262,esp32 nodemcu datasheet,10,7.466699739437999,73,35
+263,best esp32 development board,10,0.0,85,31
+264,mqtt esp32,10,0.0,1,18
+265,esp32 bootloader,10,0.0,1,18
+266,internet of things projects with esp32 pdf,10,81.267146483022,16,10
+267,esp32 nfc,10,0.0,1,18
+268,esp32 nodemcu pinout,10,0.0,1,13
+269,esp32 3g,10,0.0,1,18
+270,esp32 versions,10,0.0,89,45
+271,esp32 zephyr,10,0.0,1,18
+272,esp32 and esp8266 difference,10,0.0,40,18
+273,rmt esp32,10,0.0,1,18
+274,esp32 user manual,10,39.23026324965,52,29
+275,esp32 clock speed,10,0.0,1,14
+276,arduino esp32 cam,10,0.0,59,31
+277,esp32 ledc,10,0.0,14,23
+278,esp32 xtaskcreatepinnedtocore,10,0.0,1,18
+279,openmv esp32,10,0.0,1,18
+280,oled esp32,10,0.0,61,37
+281,accelerometer esp32,10,0.0,3,20
+282,esp32 uart,10,0.0,46,32
+283,wifi direct esp32,10,0.0,1,13
+284,esp32 eeprom,10,0.0,3,19
+285,arduino ide esp32 board manager,10,0.0,1,5
+286,micropython programming with esp32 and esp8266 pdf,10,0.0,33,16
+287,analog input esp32,10,0.0,1,13
+288,esp32 usb driver,10,0.0,1,13
+289,esp32 project,10,0.0,1,18
+290,pir sensor esp32,10,0.0,1,13
+291,esp32 antenna,10,128.35461132853044,100,49
+292,esp32 dual core,10,259.5158266681647,59,31
+293,esp32 ultrasonic sensor,10,0.0,5,15
+294,esp32 firmware update,10,6.670225475945999,41,26
+295,esp32 mp3 player,10,0.0,27,22
+296,what is esp32 arduino,10,0.0,2,6
+297,esp32 jtag pinout,10,0.0,12,17
+298,esp32 nodemcu schematic,10,0.0,1,13
+299,esp32 rust,10,0.0,1,18
+300,esp32 xiaomi,10,0.0,1,18
+301,ir remote esp32,10,0.0,1,13
+302,esp32 can bus arduino,10,0.0,36,16
+303,esp32 development board comparison,10,0.0,96,34
+304,mqtt with esp32,10,0.0,31,23
+305,esp32 can bus example,10,0.0,1,5
+306,esp32 sale,10,0.0,1,18
+307,esp32 and lora,10,1.45916633304,100,44
+308,esp32 3g module,10,0.0,1,13
+309,kolban's book on the esp32 & esp8266,10,0.0,1,5
+310,esp32 linux driver,10,0.0,18,19
+311,esp32 zip,10,0.0,1,18
+312,esp32 self balancing robot,10,0.0,1,5
+313,usb camera esp32,10,0.0,1,13
+314,esp32 purchase,10,0.0,100,49
+315,kolban esp32,10,0.0,11,22
+316,soil moisture sensor esp32,10,0.0,3,7
+317,esp32 camera module development board ov2640,10,2.478535079526,100,36
+318,esp32 voltage,10,0.0,71,40
+319,esp32 freertos example,10,0.0,1,13
+320,esp32 touch screen,10,475.16588626238354,16,19
+321,esp32 240mhz,10,0.0,88,45
+322,hmc5883l esp32,10,0.0,50,34
+323,what is esp32 module,10,0.0,53,22
+324,esp32 to firebase,10,0.0,1,13
+325,google home esp32,10,0.0,1,13
+326,esp32 timer interrupt,10,0.0,1,13
+327,esp32 to google sheets,10,0.0,1,5
+328,esp32 onboard led pin,10,0.0,1,5
+329,esp32 udp,10,0.0,1,18
+330,nodemcu esp32 tutorial,10,0.0,1,13
+331,servo esp32,10,0.0,1,18
+332,esp32 ftp server,10,0.0,7,16
+333,home assistant esp32,10,0.0,17,19
+334,ota esp32,10,0.0,1,18
+335,lora esp32 oled,10,0.0,85,39
+336,esp32 neopixel,10,0.0,1,18
+337,esp32 bluetooth hid,10,0.0,1,13
+338,servo motor esp32,10,0.0,1,13
+339,esp32 without wifi,10,0.0,100,44
+340,esp32 4mb ram,10,0.0,1,13
+341,esp32 xbee,10,0.0,1,18
+342,esp32 5v logic,10,0.0,1,13
+343,eeprom esp32,10,0.0,12,22
+344,arduino esp32 datasheet,10,0.0,1,13
+345,esp32 for dummies,10,0.0,28,22
+346,esp32 32d,10,1.4488520595839998,100,49
+347,wifi repeater esp32,10,0.0,100,44
+348,hiletgo esp32 development board,10,0.0,23,13
+349,esp32 2020,10,0.0,1,18
+350,can esp32,10,0.0,32,28
+351,esp32 uart arduino example,10,0.0,20,12
+352,esp32 lora gateway,10,0.0,44,27
+353,adafruit esp32 feather pinout,10,0.0,14,10
+354,esp32 wifi bluetooth,10,322.3848746858198,100,44
+355,tuniot esp32,10,0.0,1,19
+356,esp32 nvs,10,0.0,1,18
+357,esp32 mac address,10,0.0,1,13
+358,esp32 thing,10,3.8754365706,85,44
+359,esp32 3d printer,10,0.0,1,13
+360,esp32 esp8266,10,0.0,71,40
+361,dht22 esp32,10,0.0,1,18
+362,baud rate esp32,10,0.0,1,13
+363,esp32 vin,10,0.0,1,18
+364,esp32 cam with arduino,10,0.0,69,26
+365,esp32 vs esp8266 power consumption,10,0.0,90,33
+366,micropython for esp32 development workshop,10,0.0,42,18
+367,where to buy esp32,10,0.0,100,36
+368,esp32 memory,10,0.0,30,28
+369,esp32 vs arduino uno,10,0.0,1,6
+370,azure iot esp32,10,0.0,30,23
+371,esp32 test board,10,0.0,100,44
+372,esp32 zigbee module,10,3.4275999179699994,26,21
+373,learn esp32 with arduino ide pdf download,10,0.0,1,5
+374,esp32 8mb,10,1.924142881266,100,49
+375,internet of things projects with esp32 pdf download,10,0.0,26,13
+376,what is esp32 development board,10,0.0,96,34
+377,esp32 7 segment display,10,0.0,1,5
+378,tft display esp32,10,0.0,42,26
+379,arduino uno vs esp32,10,14.70390689448,25,13
+380,esp32 ntp,10,0.0,2,19
+381,esp32 server,10,0.0,1,18
+382,espressif esp32 github,10,0.0,1,13
+383,esp32 vin voltage,10,6.800594858819999,8,16
+384,esp32 ebay,10,0.0,42,31
+385,esp32 5mp camera,10,0.0,35,24
+386,esp32 oscilloscope,10,0.0,28,27
+387,esp32 can bus,10,0.0,12,17
+388,esp32 file system,10,0.0,1,13
+389,home automation esp32,10,0.0,17,19
+390,push button esp32,10,0.0,42,26
+391,esp8266 esp32,10,462.5138048338417,100,49
+392,esp32 os,10,0.0,1,18
+393,esp32 mp3 decoder arduino,10,0.0,1,5
+394,raspberry pi vs esp32,10,0.0,1,5
+395,esp32 hack,10,0.0,1,18
+396,esp32 not working,10,0.0,17,19
+397,lolin esp32,10,38.253801477753974,57,36
+398,esp32 lua,10,0.0,57,36
+399,esp32 8x8 led matrix,10,0.0,1,5
+400,esp32 jtag,10,0.0,1,18
+401,learn esp32 with arduino ide pdf free download,10,0.0,1,5
+402,esp32 30 pinout,10,0.0,26,22
+403,esp32 with external antenna,10,1.6749318329099998,100,36
+404,esp32 audio,10,0.0,20,25
+405,esp32 rtos tutorial,10,0.0,1,13
+406,microcontroller esp32,10,0.0,57,36
+407,node mcu esp32 arduino,10,4.686699682062,61,24
+408,esp32 with gps module,10,0.0,100,36
+409,humidity sensor esp32,10,0.0,1,13
+410,esp32 2019,10,0.0,100,49
+411,esp32 eeprom size,10,0.0,1,13
+412,esp32 analogwrite,10,0.0,1,18
+413,ultrasonic sensor esp32,10,0.0,8,16
+414,esp32 gsm,10,0.0,9,21
+415,send email esp32,10,0.0,1,13
+416,esp32 cp2102,10,4.6848795161579995,100,49
+417,esp32 node red,10,0.0,7,16
+418,esp32 successor,10,3.8780909792099996,100,49
+419,esp32 esp32s difference,10,0.0,1,13
+420,esp32 python,10,0.0,1,19
+421,ttgo wifi & bluetooth battery esp32,10,0.0,1,5
+422,ultrasonic sensor with esp32,10,0.0,5,7
+423,esp32 vs stm32,10,0.0,1,13
+424,esp32 node js,10,0.0,1,13
+425,esp32 low power,10,0.0,57,31
+426,esp32 how to program,10,0.0,100,36
+427,esp32 ota bluetooth,10,0.0,1,13
+428,odroid esp32,10,0.0,1,18
+429,ttgo esp32 pinout,10,0.0,7,16
+430,mq135 esp32,10,0.0,3,20
+431,ch340 esp32,10,0.0,100,49
+432,esp32 can transceiver,10,0.0,53,30
+433,esp32 ethernet kit,10,4.7369817651599995,100,44
+434,modbus esp32,10,0.0,1,18
+435,esp32 868mhz,10,0.0,1,18
+436,esp32 driver,10,0.0,2,19
+437,dust sensor esp32,10,0.0,1,13
+438,esp32 hdmi,10,198.16723388475833,85,44
+439,lcd display esp32,10,8.22373707501,100,44
+440,esp32 http client,10,0.0,1,13
+441,esp32 xpt2046,10,0.0,1,18
+442,esp32 radio,10,0.0,42,31
+443,esp32 keypad,10,0.0,14,23
+444,alexa on esp32,10,0.0,3,15
+445,esp32 onewire,10,0.0,1,18
+446,esp32 yield,10,0.0,1,18
+447,water flow sensor interfacing with esp32,10,0.0,9,8
+448,esp32 led,10,0.0,2,19
+449,micropython programming with esp32 and esp8266,10,0.0,32,15
+450,digikey esp32,10,23.6204446167,100,49
+451,bluetooth with esp32,10,0.0,14,18
+452,micropython esp32 bluetooth,10,0.0,35,24
+453,esp32 kicad library,10,0.0,4,15
+454,autoconnect esp32,10,0.0,1,18
+455,esp32 can controller,10,0.0,100,44
+456,esp32 qspi,10,0.0,1,18
+457,esp32 hall sensor,10,0.0,9,16
+458,esp8266 or esp32,10,0.0,67,34
+459,wifimanager esp32,10,0.0,4,20
+460,esp32 led pin,10,0.0,1,13
+461,esp32 book,10,347.79820015119054,66,38
+462,esp32 blink,10,0.0,19,24
+463,esp32 module price,10,1301.0119119520143,100,44
+464,micropython on esp32,10,0.0,1,13
+465,esp32 feather,10,0.0,40,31
+466,esp32 hid keyboard,10,0.0,4,15
+467,esp32 vs arduino mega,10,0.0,97,35
+468,esp32 news,10,0.0,1,18
+469,esp32 bluetooth speaker,10,0.0,11,17
+470,sd card esp32,10,0.0,83,39
+471,deep sleep esp32,10,0.0,14,18
+472,flashing esp32,10,0.0,7,21
+473,water level sensor esp32,10,0.0,1,5
+474,esp32 availability,10,0.0,1,18
+475,geekcreit® esp32 development board,10,0.0,57,23
+476,doit esp32 devkit v1 arduino,10,0.0,100,36
+477,esp32 touch,10,0.0,37,30
+478,esp32 release,10,0.0,1,18
+479,esp32 gpio example,10,0.0,1,13
+480,moisture sensor esp32,10,0.0,14,18
+481,esp32 1 wire,10,13.024500487055999,90,41
+482,face recognition esp32 cam,10,4.1037157110599995,20,12
+483,ttgo esp32 schematic,10,0.0,1,13
+484,esp32 get request,10,0.0,1,13
+485,esp32 zigbee,10,0.0,2,19
+486,elektor esp32,10,0.0,1,18
+487,arduino esp32 install,10,0.0,17,19
+488,esp32 arduino specifications,10,0.0,1,13
+489,esp32 i2s,10,0.0,18,24
+490,esp32 development board arduino ide,10,0.0,100,36
+491,esp32 idf examples,10,0.0,1,13
+492,esp32 esp32s cp2102,10,0.0,1,13
+493,esp32 cam drone,10,0.0,71,35
+494,esp32 servo,10,0.0,1,18
+495,arduino nano vs esp32,10,0.0,21,12
+496,esp32 with display,10,5.211210823397999,100,44
+497,esp32 5v output,10,0.0,25,21
+498,relay with esp32,10,0.0,9,16
+499,which esp32 to buy,10,0.0,100,36
+500,esp32 lr mode,10,0.0,76,36
+501,esp32 library for arduino,10,0.0,1,5
+502,esp32 espressif,10,0.0,96,48
+503,arduino esp32 wifi library,10,0.0,76,28
+504,esp32 dac,10,0.0,75,41
+505,light sensor esp32,10,0.0,57,31
+506,esp32 esp32s cp2102 development board,10,0.0,1,5
+507,hackaday esp32,10,0.0,1,18
+508,stepper motor esp32,10,2.1023674593659996,50,29
+509,esp32 http server post,10,0.0,1,5
+510,esp32 quadcopter,10,0.0,1,18
+511,esp32 z wave,10,0.0,1,13
+512,esp32 buy online,10,164.24783394065543,100,44
+513,nextion esp32,10,0.0,1,18
+514,esp32 mesh network,10,0.0,35,24
+515,esp32 uart interrupt example,10,0.0,1,6
+516,breadboard for esp32,10,0.0,100,44
+517,jtag for esp32,10,0.0,21,20
+518,doit esp32 development board,10,0.0,14,10
+519,gps tracker esp32,10,0.0,1,13
+520,powering esp32 with 5v,10,0.0,32,15
+521,esp32 rfid card reader,10,0.0,100,36
+522,motion sensor esp32,10,0.0,41,26
+523,esp32 wroom development board schematic,10,0.0,100,36
+524,esp32 dht11,10,0.0,1,18
+525,esp8266 and esp32,10,0.0,60,32
+526,esp32 6lowpan,10,0.0,1,18
+527,esp32 30 pin,10,0.0,78,37
+528,ttgo esp32 camera,10,1.151103253788,92,41
+529,esp32 8 channel relay,10,0.0,40,18
+530,esp32 5ghz wifi,10,0.0,9,16
+531,sparkfun esp32,10,0.1668485412,55,35
+532,esp32 74hc595,10,0.0,1,18
+533,hall effect sensor esp32,10,0.0,1,5
+534,arduino esp32 example,10,130.52523457952998,22,20
+535,kolban's book on the esp8266 and esp32,10,0.0,1,5
+536,micropython programming with esp32 and esp8266 ebook pdf,10,0.0,26,13
+537,esp32 reference design,10,0.0,67,34
+538,esp32 lcd,10,0.0,90,46
+539,hall sensor esp32,10,0.0,21,20
+540,esp32 ov7670,10,0.0,1,18
+541,free rtos esp32,10,0.0,1,13
+542,esp32 freertos arduino,10,0.0,26,22
+543,esp32 80mhz,10,0.0,85,44
+544,what is nodemcu esp32,10,0.0,25,13
+545,esp32 rfid access control,10,0.0,1,5
+546,esp32 bluetooth audio,10,0.0,9,16
+547,esp32 order,10,546.7119251669574,100,49
+548,temperature sensor esp32,10,6.121597136381999,61,32
+549,esp32 16mb flash,10,0.0,42,26
+550,tiny pico esp32,10,0.0,29,22
+551,esp32 xtensa,10,0.0,42,31
+552,esp32 spiffs example,10,0.0,1,13
+553,esp32 30 pin vs 38 pin,10,0.0,26,13
+554,gsm module esp32,10,0.0,14,18
+555,sd card reader esp32,10,0.0,1,5
+556,esp32 4g,10,6.294967938737999,100,49
+557,esp32 tensorflow lite,10,0.0,1,13
+558,esp32 usb hid,10,0.0,1,13
+559,esp32 external antenna,10,3557.3440430174783,57,31
+560,esp32 gpio,10,0.0,42,31
+561,esp32 built in led pin,10,0.0,16,10
+562,zigbee esp32,10,0.0,4,20
+563,esp32 with adafruit featherwing ethernet,10,0.0,1,5
+564,esp32 01,10,0.0,42,31
+565,micropython esp32 tutorial,10,0.0,8,16
+566,ttgo zero esp32,10,0.0,1,13
+567,ttgo esp32 lcd,10,0.0,1,13
+568,timer esp32,10,0.0,18,24
+569,esp32 16x2 lcd,10,0.0,3,15
+570,flash memory esp32,10,0.0,9,16
+571,dns server esp32,10,0.0,1,13
+572,esp32 12v input,10,0.0,1,13
+573,esp32 nes emulator,10,0.0,1,13
+574,google iot esp32,10,0.0,1,13
+575,esp32 wemos,10,0.0,33,29
+576,esp32 usb host,10,0.0,1,13
+577,esp32 vs arduino,10,0.0,1,13
+578,i2c esp32,10,0.0,18,24
+579,current sensor esp32,10,4.83709088988,100,44
+580,esp32 http post json,10,0.0,1,5
+581,arduino vs esp32,10,0.0,82,38
+582,esp32 clock,10,0.0,42,31
+583,esp32 doit,10,0.0,88,45
+584,esp32 in arduino,10,0.0,2,14
+585,xiuxin esp32 development board,10,0.0,1,5
+586,bmp280 esp32,10,0.0,50,34
+587,powering esp32,10,0.0,96,47
+588,esp32 can pins,10,0.0,65,33
+589,esp32 development board arduino,10,0.0,1,5
+590,esp32 battery,10,424.4896116496951,95,47
+591,aws iot esp32,10,117.78771358333798,17,19
+592,esp32 voltage input,10,0.0,25,21
+593,esp32 breakout,10,336.4011222074082,28,27
+594,nrf24l01 esp32,10,0.0,48,33
+595,esp32 openocd,10,0.0,9,21
+596,weather station esp32,10,0.0,1,13
+597,esp32 json library,10,0.0,1,13
+598,kolban's book on the esp8266 and esp32 pdf,10,0.0,1,5
+599,best ide for esp32,10,0.0,40,18
+600,esp32 qr code reader,10,0.0,1,5
+601,esp32 with battery,10,3.1646617850879997,100,44
+602,pir motion sensor esp32,10,0.0,35,16
+603,esp32 to arduino,10,0.0,52,29
+604,ifttt esp32,10,0.0,1,18
+605,esp32 with ultrasonic sensor,10,0.0,1,5
+606,esp32 module buy,10,0.0,100,44
+607,esp32 connect to wifi,10,0.0,1,6
+608,espressif esp32 datasheet,10,0.0,87,40
+609,esp32 for fritzing,10,0.0,1,13
+610,firebase esp32,10,0.0,3,19
+611,ebay esp32,10,0.0,1,18
+612,adafruit esp32 library,10,0.0,1,13
+613,esp32 kolban,10,0.0,1,18
+614,gps module with esp32,10,0.0,61,24
+615,mit app inventor esp32 wifi,10,0.0,1,5
+616,esp32 433mhz receiver,10,0.0,100,44
+617,esp32 433mhz,10,0.0,100,49
+618,esp32 32 bit,10,3.8794561036379993,97,43
+619,esp32 opencv,10,0.0,1,18
+620,esp32 zigbee gateway,10,48.774227327027994,25,21
+621,esp32 2,10,0.0,1,18
+622,esp32 mac,10,0.0,9,21
+623,getting started with esp32 arduino,10,0.0,85,31
+624,esp32 text to speech,10,0.0,3,7
+625,sonoff esp32,10,0.0,1,18
+626,esp32 yocto,10,0.0,100,49
+627,esp32 5v,10,0.0,35,29
+628,esp32 usb,10,0.0,74,41
+629,esp32 development board power supply,10,0.0,1,5
+630,ldr with esp32,10,0.0,1,14
+631,thunkable esp32,10,0.0,1,18
+632,esp32 onboard led,10,0.0,33,24
+633,esp32 nextion,10,0.0,1,18
+634,pinout esp32,10,0.0,1,18
+635,esp32 operating voltage,10,6.917768038889999,34,24
+636,oled with esp32,10,0.0,85,39
+637,esp32 flash,10,0.0,18,24
+638,esp32 8mb flash,10,0.0,1,13
+639,rfid reader esp32,10,0.0,61,32
+640,esp32 8mb psram,10,0.0,1,13
+641,esp32 with lcd display,10,0.0,81,30
+642,esp32 extension board,10,0.0,1,13
+643,esp32 vs esp32d,10,0.0,91,41
+644,esp32 kit,10,376.50425083618893,100,49
+645,ttgo esp32 oled,10,0.0,35,24
+646,energy meter esp32,10,0.0,1,13
+647,esp32 interrupt,10,0.0,1,19
+648,esp32 i2c pins,10,0.0,1,13
+649,aws iot esp32 arduino,10,0.0,71,27
+650,esp32 on arduino,10,0.0,60,32
+651,webserver esp32,10,0.0,14,23
+652,esp32 rtos,10,0.0,1,19
+653,esp32 hotspot,10,3.9387631760099997,85,44
+654,esp32 java,10,0.0,1,18
+655,micropython for esp32,10,0.3602411685,55,30
+656,esp32 lite,10,0.0,14,23
+657,esp32 ulp,10,0.0,46,32
+658,esp32 ili9341 touch,10,2.80305549216,14,18
+659,esp32 rgb led controller,10,0.0,51,21
+660,esp32 chip price,10,130.66433119356913,100,44
+661,esp32 url,10,0.0,1,18
+662,esp32 ota example,10,0.0,1,13
+663,esp32 8266,10,0.0,42,31
+664,esp32 800l,10,0.0,11,22
+665,esp32 guide,10,0.0,62,37
+666,esp32 linux,10,0.0,1,18
+667,web server esp32,10,0.0,1,13
+668,esp32 16mb,10,4.294074728519999,100,49
+669,esp32 relay,10,140.5432556553378,62,37
+670,esp32 for arduino ide,10,0.0,8,8
+671,ttgo esp32 sim800l,10,3.8738439254339996,92,41
+672,esp32 development board led,10,0.0,1,5
+673,esp32 https,10,0.0,1,18
+674,ibeacon esp32,10,0.0,1,18
+675,esp32 development board datasheet,10,3.1467634870319996,100,36
+676,esp32 dev board,10,268.2822710693815,100,44
+677,arduino esp32 ota,10,0.0,1,13
+678,arduino mega vs esp32,10,0.0,16,10
+679,dac esp32,10,0.0,25,26
+680,buzzer esp32,10,0.0,9,21
+681,esp32 vs raspberry pi zero w,10,0.0,28,14
+682,ttgo esp32 lora pinout,10,0.0,100,36
+683,micropython for esp32 development workshop pdf,10,0.0,14,10
+684,esp32 jlink,10,0.0,1,18
+685,mit app inventor esp32,10,0.0,1,5
+686,gps module esp32,10,0.0,100,44
+687,esp32 keypad library,10,0.0,1,13
+688,esp32 blink led,10,0.0,1,13
+689,arduino ide esp32,10,82.16864372747678,6,15
+690,esp32 5v tolerant,10,0.0,28,22
+691,sparkfun esp32 thing,10,605.6170643322765,43,27
+692,new esp32,10,0.0,1,18
+693,esp32 timer,10,0.0,12,22
+694,esp32 jtag programmer,10,0.0,1,13
+695,esp32 development board eagle library,10,0.0,7,8
+696,arduino esp32 tutorial,10,0.0,28,22
+697,huzzah esp32,10,0.0,1,18
+698,voice recognition esp32,10,7.537155327971999,7,16
+699,nano32 esp32,10,0.0,14,23
+700,micropython esp32 windows,10,0.0,5,15
+701,esp32 to arduino uno,10,0.0,14,10
+702,esp32 release date,10,0.0,1,13
+703,pycom esp32,10,0.0,71,40
+704,esp32 basic,10,0.0,28,27
+705,esp32 for commercial products,10,0.0,53,22
+706,esp32 quadrature encoder,10,0.0,1,13
+707,hornbill esp32,10,0.0,1,18
+708,esp32 9v battery,10,0.0,100,44
+709,esp32 mouser,10,10654.79131551643,25,26
+710,esp32 sparkfun,10,0.0,52,34
+711,esp32 toolchain,10,0.0,1,19
+712,esp32 pwm,10,0.0,24,26
+713,micropython programming with esp32 and esp8266 ebook download,10,0.0,3,7
+714,esp32 robot,10,0.0,1,18
+715,micropython tutorial esp32,10,0.0,1,13
+716,esp32 golang,10,0.0,1,18
+717,sim800 esp32,10,4.530468775301999,50,34
+718,esp32 quick start,10,0.0,100,44
+719,what is esp32 used for,10,2.1145777389719997,32,15
+720,internet radio esp32,10,0.0,14,18
+721,esp32 json arduino,10,0.0,1,13
+722,esp32 homekit,10,0.0,1,18
+723,esp32 and arduino uno,10,0.0,57,23
+724,esp32 internet radio,10,0.0,8,16
+725,geekcreit esp32 development board,10,0.0,57,23
+726,esp32 4g lte,10,3.4532339211179996,89,40
+727,nodemcu for esp32,10,0.0,60,32
+728,lora esp32,10,2.2372872569999998,99,48
+729,capacitive touch sensor esp32,10,0.0,85,31
+730,esp32 camera development board,10,0.0,1,5
+731,esp32 voice recognition,10,0.0,4,15
+732,esp32 reset,10,0.0,1,18
+733,micropython esp32 documentation,10,0.0,1,13
+734,esp32 tick time,0,0.0,1,12
+735,esp32 12v relay,0,0.0,1,12
+736,water flow sensor esp32,0,0.0,1,4
+737,guru meditation error esp32 loadprohibited,0,0.0,1,4
+738,bluetooth file transfer esp32,0,0.0,1,4
+739,esp32 development board eagle,0,0.0,1,4
+740,arduino esp8266 vs esp32,0,0.0,1,4
+741,oled display for esp32,0,0.0,1,4
+742,internet of things projects with esp32 download,0,0.0,1,4
+743,esp32 programming for the internet of things ebook,0,0.0,1,4
+744,esp32 and blynk,0,0.0,1,12
+745,capacitive sensor esp32,0,0.0,1,12
+746,watchdog timer esp32,0,0.0,1,12
+747,esp32 9250,0,0.0,1,17
+748,ttgo esp32 lora 868,0,0.0,1,4
+749,esp32 9 bit spi,0,0.0,1,4
+750,esp32 with lipo battery,0,0.0,1,4
+751,brownout detector esp32,0,0.0,1,12
+752,esp32 development board kicad,0,0.0,1,4
+753,esp32 for mac,0,0.0,1,12
+754,download firmware esp32,0,0.0,1,12
+755,esp32 get website,0,0.0,1,12
+756,esp32 03,0,0.0,1,17
+757,esp32 4k camera,0,0.0,1,12
+758,esp32 web server auto update,0,0.0,1,4
+759,esp32 which core,0,0.0,1,12
+760,ldr sensor esp32,0,0.0,1,12
+761,esp32 development board led pin,0,0.0,1,4
+762,esp32 development board sd card,0,0.0,1,4
+763,rgb led strip esp32,0,0.0,1,4
+764,esp32 what to do,0,0.0,1,4
+765,talkie esp32,0,0.0,1,17
+766,esp32 development board onboard led,0,0.0,1,4
+767,esp32 arduino free heap,0,0.0,1,4
+768,audio library esp32,0,0.0,1,12
+769,flash firmware esp32,0,0.0,1,12
+770,wifi driver esp32,0,0.0,1,12
+771,oled display with esp32,0,0.0,1,4
+772,esp32 9 bit serial,0,0.0,1,4
+773,esp32 how many interrupts,0,0.0,1,4
+774,esp32 without dev board,0,0.0,1,4
+775,esp32 development board reference design,0,0.0,1,4
+776,esp32 development board vin,0,0.0,1,4
+777,esp32 60fps,0,0.0,1,17
+778,what is espressif esp32,0,0.0,1,4
+779,arduino esp32 price,0,0.0,1,12
+780,esp32 development board pdf,0,0.0,1,4
+781,esp32 camera module development board,0,0.0,1,4
+782,wifi set status to init esp32,0,0.0,1,4
+783,internet of things projects with esp32 epub,0,0.0,1,4
+784,buy esp32 arduino,0,0.0,1,12
+785,nodemcu esp32 led blink,0,0.0,1,4
+786,esp32 9 bit uart,0,0.0,1,4
+787,esp32 how to get mac address,0,0.0,1,4
+788,broker mqtt esp32,0,0.0,1,12
+789,bmp280 with esp32,0,0.0,1,12
+790,blynk with esp32,0,0.0,1,12
+791,cpu frequency esp32,0,0.0,1,12
+792,particle argon esp32,0,0.0,1,12
+793,esp32 without arduino,0,0.0,1,12
+794,rtls esp32,0,0.0,1,17
+795,using esp32 arduino ide,0,0.0,1,4
+796,bluetooth speaker with esp32,0,0.0,1,4
+797,ldr sensor with esp32,0,0.0,1,4
+798,best iot platform for esp32,0,0.0,1,4
+799,esp32 brownout detector was triggered,0,0.0,1,4
+800,how ota works in esp32,0,0.0,1,4
+801,arduino ide board esp32,0,0.0,1,4
+802,esp32 what can it do,0,0.0,1,4
+803,geekcreit® esp32 development board pinout,0,0.0,1,4
+804,433mhz receiver esp32,0,0.0,1,12
+805,esp32 bluetooth robot,0,0.0,1,12
+806,espressif toolchain esp32,0,0.0,1,12
+807,esp32 netpie,0,0.0,1,17
+808,nodemcu esp32 pin diagram,0,0.0,1,4
+809,spi driver esp32,0,0.0,1,12
+810,smart irrigation system using esp32,0,0.0,1,4
+811,fingerprint scanner esp32,0,0.0,1,12
+812,esp32 zeromq,0,0.0,1,17
+813,solar panel for esp32,0,0.0,1,4
+814,esp32 which pins to use,0,0.0,1,4
+815,esp32 flac decoder,0,0.0,1,12
+816,gp2y0e03 esp32,0,0.0,1,17
+817,esp32 arduino esp now,0,0.0,1,4
+818,esp32 ublox gps,0,0.0,1,12
+819,esp32 module reference design,0,0.0,1,4
+820,esp32 yeelight,0,0.0,1,17
+821,esp32 development board built in led,0,0.0,1,4
+822,esp32 development board specs,0,0.0,1,4
+823,spi for esp32,0,0.0,1,12
+824,esp32 zip library,0,0.0,1,12
+825,esp32 rest api,0,0.0,1,12
+826,espressif esp32 documentation,0,0.0,1,12
+827,the internet of things with esp32,0,0.0,1,4
+828,esp32 like,0,0.0,1,17
+829,esp32 ota without factory,0,0.0,1,4
+830,lora wan esp32,0,0.0,1,12
+831,esp32 nodemcu development board,0,0.0,1,4
+832,sg90 esp32,0,0.0,1,17
+833,esp32 high speed data logger,0,0.0,1,4
+834,sim7600 esp32,0,0.0,1,17
+835,esp32 how to use,0,0.0,1,4
+836,bluetooth gateway esp32,0,0.0,1,12
+837,esp32 development board circuit,0,0.0,1,4
+838,lcd 16x2 esp32,0,0.0,1,12
+839,esp32 64 bit,0,0.0,1,12
+840,best ide esp32,0,0.0,1,12
+841,techbase esp32,0,0.0,1,17
+842,mp3 encoder esp32,0,0.0,1,12
+843,ttgo esp32 usb driver,0,0.0,1,4
+844,deep sleep esp32 arduino,0,0.0,1,4
+845,esp32 ble mesh,0,0.0,1,12
+846,mender esp32,0,0.0,1,17
+847,esp32 development board programming,0,0.0,1,4
+848,esp32 azure iot kit arduino,0,0.0,1,4
+849,esp32 lora oled development board,0,0.0,1,4
+850,freshen esp32,0,0.0,1,17
+851,esp32 development board aliexpress,0,0.0,1,4
+852,blynk tutorial esp32,0,0.0,1,12
+853,esp32 pret,0,0.0,1,17
+854,esp32 what pins to use,0,0.0,1,4
+855,gps arduino esp32,0,0.0,1,12
+856,measure current esp32,0,0.0,1,12
+857,iot home automation using esp32,0,0.0,1,4
+858,using arduino ide with esp32,0,0.0,1,4
+859,how many analog pins in esp32,0,0.0,1,4
+860,esp32 development board australia,0,0.0,1,4
+861,esp32 development board azdelivery,0,0.0,1,4
+862,static ip esp32,0,0.0,1,12
+863,esp32 development board amazon,0,0.0,1,4
+864,iot gateway esp32,0,0.0,1,12
+865,3d print esp32 case,0,0.0,1,4
+866,nodemcu esp32 esp32s wifi,0,0.0,1,4
+867,ttgo new btc ticker esp32,0,0.0,1,4
+868,mlx90393 esp32,0,0.0,1,17
+869,iot project using esp32,0,0.0,1,4
+870,geekcreit® esp32 development board arduino,0,0.0,1,4
+871,sim800l with esp32,0,0.0,1,12
+872,touch button esp32,0,0.0,1,12
+873,atmega2560 vs esp32,0,0.0,1,12
+874,espressif esp32 json,0,0.0,1,12
+875,mqtt protocol esp32,0,0.0,1,12
+876,iot development for esp8266 and esp32 with javascript,0,0.0,1,4
+877,esp32 which gpio to use,0,0.0,1,4
+878,espressif esp32 development board schematic,0,0.0,1,4
+879,esp32 how to power,0,0.0,1,4
+880,esp32 development board display,0,0.0,1,4
+881,micropython.org esp32,0,0.0,1,17
+882,esp32 servo shield,0,0.0,1,12
+883,esp32 and rfid,0,0.0,1,12
+884,esp32 yellow board,0,0.0,1,12
+885,bluetooth wifi esp32,0,0.0,1,12
+886,partitions esp32,0,0.0,1,17
+887,mozilla webthings esp32,0,0.0,1,12
+888,ble wifi esp32,0,0.0,1,12
+889,arduino esp32 temperature sensor,0,0.0,1,4
+890,arduino forum esp32,0,0.0,1,12
+891,ov7670 without fifo esp32,0,0.0,1,4
+892,on board led esp32,0,0.0,1,4
+893,lorawan with esp32,0,0.0,1,12
+894,esp32 can registers,0,0.0,1,12
+895,how to install micropython on esp32,0,0.0,1,4
+896,mit app inventor 2 esp32,0,0.0,1,4
+897,esp32 which gpio,0,0.0,1,12
+898,nextion library for esp32,0,0.0,1,4
+899,bluetooth audio receiver esp32,0,0.0,1,4
+900,mesh networking esp32,0,0.0,1,12
+901,how to flash esp32,0,0.0,1,4
+902,is esp32 and arduino,0,0.0,1,4
+903,ir sensor esp32,0,0.0,1,12
+904,esp32 how many i2c,0,0.0,1,4
+905,water sensor esp32,0,0.0,1,12
+906,esp32 sensor list,0,0.0,1,12
+907,the things network esp32,0,0.0,1,4
+908,logic level converter esp32,0,0.0,1,4
+909,esp32 7 display,0,0.0,1,12
+910,bluetooth le esp32,0,0.0,1,12
+911,wifi access point esp32,0,0.0,1,4
+912,mp3 decoder esp32,0,0.0,1,12
+913,esp32 erase flash arduino ide,0,0.0,1,4
+914,esp32 with 18650 battery,0,0.0,1,4
+915,diy drone esp32,0,0.0,1,12
+916,espressif esp32 arduino json,0,0.0,1,4
+917,thermistor with esp32,0,0.0,1,12
+918,esp32 with pir motion sensor,0,0.0,1,4
+919,espressif esp32 development board arduino,0,0.0,1,4
+920,internet of things projects with esp32 ebook,0,0.0,1,4
+921,arduino boards manager url esp32,0,0.0,1,4
+922,esp32 how many uarts,0,0.0,1,4
+923,bluetooth module esp32,0,0.0,1,12
+924,esp32 block diagram,0,0.0,1,12
+925,arduino esp32 ble,0,0.0,1,12
+926,tb6600 esp32,0,0.0,1,17
+927,esp32 and bmp280,0,0.0,1,12
+928,stm32 blue pill vs esp32,0,0.0,1,4
+929,esp32 development board projects,0,0.0,1,4
+930,esp32 64mb,0,0.0,1,17
+931,huzzah esp32 pinout,0,0.0,1,12
+932,techtutorials esp32,0,0.0,1,17
+933,esp32 74hc165,0,0.0,1,17
+934,air quality monitor esp32,0,0.0,1,4
+935,electro dragon esp32,0,0.0,1,12
+936,esp32 development board voltage,0,0.0,1,4
+937,dht11 sensor esp32,0,0.0,1,12
+938,esp32 ble scanner,0,0.0,1,12
+939,esp32 esp32s unterschied,0,0.0,1,12
+940,esp32 24v,0,0.0,1,17
+941,infrared sensor esp32,0,0.0,1,12
+942,bluetooth beacon esp32,0,0.0,1,12
+943,esp32 development board for sale,0,0.0,1,4
+944,esp32 ble to wifi gateway,0,0.0,1,4
+945,esp32 how many cores,0,0.0,1,4
+946,spi communication esp32,0,0.0,1,12
+947,temperature sensor with esp32,0,0.0,1,4
+948,esp32 espressif github,0,0.0,1,12
+949,doit esp32 devkit schematic,0,0.0,1,4
+950,esp32 64x64,0,0.0,1,17
+951,coin cell esp32,0,0.0,1,12
+952,can esp32 run linux,0,0.0,1,4
+953,sharp dust sensor esp32,0,0.0,1,4
+954,esp32 how to use dual core,0,0.0,1,4
+955,esp32 without board,0,0.0,1,12
+956,esp32 dht22 sensor,0,0.0,1,12
+957,esp32 can idf,0,0.0,1,12
+958,touch switch esp32,0,0.0,1,12
+959,webserver esp32 library,0,0.0,1,12
+960,esp32 doit devkit v1 development board,0,0.0,1,4
+961,espressif esp32 forum,0,0.0,1,12
+962,esp32 can micropython,0,0.0,1,12
+963,why use esp32,0,0.0,1,12
+964,esp32 two timer,0,0.0,1,12
+965,esp32 iot starter kit with mongoose os,0,0.0,1,4
+966,esp32 development board specifications,0,0.0,1,4
+967,16x2 lcd with esp32,0,0.0,1,4
+968,rgb led esp32,0,0.0,1,12
+969,static ip address esp32,0,0.0,1,4
+970,esp32 5v sensor,0,0.0,1,12
+971,esp32 kaufen,0,0.0,1,17
+972,esp32 which ide,0,0.0,1,12
+973,iot platform esp32,0,0.0,1,12
+974,can esp32 output 5v,0,0.0,1,4
+975,esp32 to aws iot,0,0.0,1,4
+976,esp32 development board external antenna,0,0.0,1,4
+977,micropython with esp32,0,0.0,1,12
+978,raspberry pi arduino esp32,0,0.0,1,4
+979,esp32 wroom 32 development board schematic,0,0.0,1,4
+980,esp32 6v,0,0.0,1,17
+981,stm32 and esp32,0,0.0,1,12
+982,micropython uart esp32,0,0.0,1,12
+983,pycom vs esp32,0,0.0,1,12
+984,esp32 and mpu6050,0,0.0,1,12
+985,aprs esp32,0,0.0,1,17
+986,analog pins in esp32,0,0.0,1,4
+987,esp32 with servo motor,0,0.0,1,4
+988,guru meditation error esp32,0,0.0,1,4
+989,esp32 development board input voltage,0,0.0,1,4
+990,esp32 to mysql,0,0.0,1,12
+991,ibeacon with esp32,0,0.0,1,12
+992,zigbee with esp32,0,0.0,1,12
+993,esp32 kopen,0,0.0,1,17
+994,eeprom library esp32,0,0.0,1,12
+995,esp32 how much flash,0,0.0,1,4
+996,esp32 development board footprint,0,0.0,1,4
+997,gp2y0a21yk0f esp32,0,0.0,1,17
+998,nextion display esp32,0,0.0,1,12
+999,esp32 without idf,0,0.0,1,12
+1000,spi with esp32,0,0.0,1,12
+1001,esp32 how to connect to wifi,0,0.0,1,4
+1002,esp32 7789,0,0.0,1,17
+1003,esp32 jumpstart,0,0.0,1,17
+1004,stm32f103c8t6 vs esp32,0,0.0,1,12
+1005,proteus esp32 simulation,0,0.0,1,12
+1006,esp32 gpio interrupt example,0,0.0,1,4
+1007,esp32 development board analog,0,0.0,1,4
+1008,esp32 30 pin pinout,0,0.0,1,4
+1009,ttgo esp32 uno,0,0.0,1,12
+1010,esp32 multi server,0,0.0,1,12
+1011,micropython and esp32,0,0.0,1,12
+1012,espressif esp32 jtag,0,0.0,1,12
+1013,android app for esp32,0,0.0,1,4
+1014,how esp32 works,0,0.0,1,12
+1015,esp32 gpio 0,0,0.0,1,12
+1016,ble beacon esp32 arduino,0,0.0,1,4
+1017,d32 esp32,0,0.0,1,17
+1018,nextion and esp32,0,0.0,1,12
+1019,geeeknet esp32 development board,0,0.0,1,4
+1020,esp32 development board south africa,0,0.0,1,4
+1021,dht11 arduino esp32,0,0.0,1,12
+1022,esp32 robu.in,0,0.0,1,17
+1023,micropython esp32 433mhz,0,0.0,1,12
+1024,wifi repeater using esp32,0,0.0,1,4
+1025,mq135 with esp32,0,0.0,1,12
+1026,esp32 wroom development board datasheet,0,0.0,1,4
+1027,esp32 development board treiber,0,0.0,1,4
+1028,guru meditation error core 0 panic'ed esp32,0,0.0,1,4
+1029,esp32 7 tft,0,0.0,1,12
+1030,bluetooth tethering esp32,0,0.0,1,12
+1031,arduino ide board manager esp32,0,0.0,1,4
+1032,esp32 how many timers,0,0.0,1,4
+1033,micropython to esp32,0,0.0,1,12
+1034,esp32 development board driver,0,0.0,1,4
+1035,esp32 development board pins,0,0.0,1,4
+1036,nrf24l01 esp32 library,0,0.0,1,12
+1037,esp32 development board cp2102 wifi bluetooth,0,0.0,1,4
+1038,esp32 development board manual,0,0.0,1,4
+1039,hall sensor in esp32,0,0.0,1,4
+1040,esp32 development board ebay,0,0.0,1,4
+1041,esp32 qmk,0,0.0,1,17
+1042,gas sensor esp32,0,0.0,1,12
+1043,esp32 nodemcu development board pinout,0,0.0,1,4
+1044,esp32 development board ethernet,0,0.0,1,4
+1045,arduino esp32 iot,0,0.0,1,12
+1046,iot based home automation using esp32,0,0.0,1,4
+1047,esp32 or esp32s,0,0.0,1,12
+1048,ttp223 esp32,0,0.0,1,17
+1049,rain sensor esp32,0,0.0,1,12
+1050,nextion display with esp32,0,0.0,1,4
+1051,thermistor esp32,0,0.0,1,17
+1052,ble with esp32,0,0.0,1,12
+1053,robot car esp32,0,0.0,1,12
+1054,esp32 9600,0,0.0,1,17
+1055,espressif esp32 5ghz,0,0.0,1,12
+1056,esp32 6502,0,0.0,1,17
+1057,esp32 16x2 lcd without i2c,0,0.0,1,4
+1058,where to buy esp32 chip,0,0.0,1,4
+1059,door sensor esp32,0,0.0,1,12
+1060,esp32 without antenna,0,0.0,1,12
+1061,esp32 ble,0,0.0,1,17
+1062,python ide esp32,0,0.0,1,12
+1063,esp32 development board pin layout,0,0.0,1,4
+1064,esp32 spi camera,0,0.0,1,12
+1065,interfacing led with esp32,0,0.0,1,4
+1066,esp32 led button,0,0.0,1,12
+1067,ir blaster esp32,0,0.0,1,12
+1068,ldo for esp32,0,0.0,1,12
+1069,how to code esp32,0,0.0,1,4
+1070,home assistant esp32 bluetooth,0,0.0,1,4
+1071,arduino error compiling for board esp32 dev module,0,0.0,1,4
+1072,esp32 and esp32s,0,0.0,1,12
+1073,esp32 development board review,0,0.0,1,4
+1074,alexa gadget esp32,0,0.0,1,12
+1075,esp32 development board price,0,0.0,1,4
+1076,spi communication between two esp32,0,0.0,1,4
+1077,flight controller esp32,0,0.0,1,12
+1078,esp32 2g,0,0.0,1,17
+1079,wifi jammer using esp32,0,0.0,1,4
+1080,bmp280 micropython esp32,0,0.0,1,12
+1081,dht with esp32,0,0.0,1,12
+1082,sound sensor esp32,0,0.0,1,12
+1083,esp32 esp32s development board,0,0.0,1,4
+1084,arduino esp32 sim800l,0,0.0,1,12
+1085,esp32 6050,0,0.0,1,17
+1086,is esp32 stable,0,0.0,1,12
+1087,fpv camera esp32,0,0.0,1,12
+1088,esp32 to thingspeak,0,0.0,1,12
+1089,ttgo esp32 development board,0,0.0,1,4
+1090,esp32 rgb led strip controller,0,0.0,1,4
+1091,esp32 xcode,0,0.0,1,17
+1092,barebones esp32,0,0.0,1,17
+1093,esp32 arduino ide board url,0,0.0,1,4
+1094,walkie talkie using esp32,0,0.0,1,4
+1095,esp32 development board blink,0,0.0,1,4
+1096,esp32 x esp32s,0,0.0,1,12
+1097,best sensors for esp32,0,0.0,1,4
+1098,is esp32 arm based,0,0.0,1,4
+1099,esp32 how much ram,0,0.0,1,4
+1100,esp32 40 pin,0,0.0,1,12
+1101,arduino program esp32,0,0.0,1,12
+1102,esp32 64x32 rgb matrix,0,0.0,1,4
+1103,esp32 uk,0,0.0,1,17
+1104,esp32 power consume,0,0.0,1,12
+1105,esp32 to android,0,0.0,1,12
+1106,esp32 factory reset,0,0.0,1,12
+1107,esp32 development board jtag,0,0.0,1,4
+1108,esp32 iot development platform,0,0.0,1,4
+1109,arduino boards esp32,0,0.0,1,12
+1110,esp32 for industrial,0,0.0,1,12
+1111,esp32 900mhz,0,0.0,1,17
+1112,lifepo4 battery esp32,0,0.0,1,12
+1113,esp32 and gps,0,0.0,1,12
+1114,proximity sensor esp32,0,0.0,1,12
+1115,ble and wifi esp32,0,0.0,1,4
+1116,dht11 sensor with esp32,0,0.0,1,4
+1117,ota for esp32,0,0.0,1,12
+1118,esp32 how to start,0,0.0,1,4
+1119,esp32 xsemaphoretake,0,0.0,1,17
+1120,ota with esp32,0,0.0,1,12
+1121,esp32 and ov7670,0,0.0,1,12
+1122,mq2 esp32,0,0.0,1,17
+1123,breakout board esp32,0,0.0,1,12
+1124,esp32 bidirectional communication,0,0.0,1,12
+1125,esp32 xbox controller,0,0.0,1,12
+1126,esp32 without rtos,0,0.0,1,12
+1127,esp32 set wifi via bluetooth,0,0.0,1,4
+1128,esp32 deep sleep battery,0,0.0,1,4
+1129,esp32 7 segment,0,0.0,1,12
+1130,esp32 microcontroller development board,0,0.0,1,4
+1131,doit esp32 devkit v1 arduino ide,0,0.0,1,4
+1132,esp32 xlights,0,0.0,1,17
+1133,aws iot with esp32,0,0.0,1,4
+1134,esp32 with aws iot,0,0.0,1,4
+1135,esp32 qt,0,0.0,1,17
+1136,stepper motor driver esp32,0,0.0,1,4
+1137,esp32 development board cp2102,0,0.0,1,4
+1138,oled to esp32,0,0.0,1,12
+1139,esp32 development board micropython,0,0.0,1,4
+1140,blue led on esp32,0,0.0,1,4
+1141,esp32 without arduino ide,0,0.0,1,4
+1142,esp32 qemu,0,0.0,1,17
+1143,current sensor with esp32,0,0.0,1,4
+1144,esp32 without flash,0,0.0,1,12
+1145,esp32 9v,0,0.0,1,17
+1146,esp32 and firebase,0,0.0,1,12
+1147,example code esp32,0,0.0,1,12
+1148,esp32 development board v4,0,0.0,1,4
+1149,micropython can bus esp32,0,0.0,1,4
+1150,esp32 hspi example,0,0.0,1,12
+1151,esp32 with nextion display,0,0.0,1,4
+1152,16x2 lcd esp32,0,0.0,1,12
+1153,i2c eeprom esp32,0,0.0,1,12
+1154,how to erase flash esp32,0,0.0,1,4
+1155,esp32 jtag programming,0,0.0,1,12
+1156,mikroe esp32,0,0.0,1,17
+1157,library esp32 arduino,0,0.0,1,12
+1158,makerhawk esp32 development board,0,0.0,1,4
+1159,using camera with esp32,0,0.0,1,4
+1160,esp32 without boot button,0,0.0,1,4
+1161,esp32 without freertos,0,0.0,1,12
+1162,flame sensor esp32,0,0.0,1,12
+1163,hack wifi esp32,0,0.0,1,12
+1164,esp32 development board battery,0,0.0,1,4
+1165,esp32 qr code scanner,0,0.0,1,4
+1166,esp32 development board getting started,0,0.0,1,4
+1167,esp32 to arduino ide,0,0.0,1,4
+1168,qr code scanner esp32,0,0.0,1,4
+1169,esp32 ymodem,0,0.0,1,17
+1170,esp32 aac decoder,0,0.0,1,12
+1171,esp32 development board tutorial,0,0.0,1,4
+1172,esp32 24v input,0,0.0,1,12
+1173,esp32 zero crossing,0,0.0,1,12
+1174,esp32 development board adafruit,0,0.0,1,4
+1175,backup firmware esp32,0,0.0,1,12
+1176,solid state relay esp32,0,0.0,1,4
+1177,which is better esp32 vs esp8266,0,0.0,1,4
+1178,esp32 development board price in pakistan,0,0.0,1,4
+1179,esp32 max7219,0,0.0,1,17
+1180,esp32 development board power,0,0.0,1,4
+1181,esp32 and sim800l,0,0.0,1,12
+1182,esp32 for production,0,0.0,1,12
+1183,how many hardware serial interface are in esp32,0,0.0,1,4
+1184,esp32 development board alibaba,0,0.0,1,4
+1185,wifi speakers esp32,0,0.0,1,12
+1186,espressif esp32 development board pinout,0,0.0,1,4
+1187,how much ram does esp32 have,0,0.0,1,4
+1188,esp32 development board 5v,0,0.0,1,4
+1189,esp32 how many spi,0,0.0,1,4
+1190,esp32 pinout vs esp8266,0,0.0,1,4
+1191,esp32 7 segment led,0,0.0,1,4
+1192,esp32 development board fritzing,0,0.0,1,4
+1193,esp32 bluetooth low energy beacon,0,0.0,1,4
+1194,is esp32 a microcontroller,0,0.0,1,4
+1195,esp32 to ethernet,0,0.0,1,12
+1196,esp32 pin strom,0,0.0,1,12
+1197,esp32 development board library,0,0.0,1,4
+1198,esp32 which pins,0,0.0,1,12
+1199,factory reset esp32,0,0.0,1,12
+1200,esp32 zlib,0,0.0,1,17
+1201,i2c with esp32,0,0.0,1,12
+1202,doit esp32 development board schematic,0,0.0,1,4
+1203,esp32 9dof,0,0.0,1,17
+1204,esp32 discriminator 3,0,0.0,1,12
+1205,nano32 esp32 iot development board,0,0.0,1,4
+1206,ble esp32,0,0.0,1,17
+1207,node mcu esp32 pinout,0,0.0,1,4
+1208,esp32 cam cad,0,0.0,1,12
+1209,micropython ide for esp32,0,0.0,1,4
+1210,what esp32 to buy,0,0.0,1,4
+1211,fingerprint sensor with esp32,0,0.0,1,4
+1212,esp32 with current sensor,0,0.0,1,4
+1213,linux for esp32,0,0.0,1,12
+1214,wifi speaker esp32,0,0.0,1,12
+1215,esp32 how many analog pins,0,0.0,1,4
+1216,esp32 7805,0,0.0,1,17
+1217,esp32 what is rtc,0,0.0,1,4
+1218,servo motor using esp32,0,0.0,1,4
+1219,learn esp32 with arduino ide ebook,0,0.0,1,4
+1220,esp32 development board i2c,0,0.0,1,4
+1221,esp32 what is psram,0,0.0,1,4
+1222,iot projects esp32,0,0.0,1,12
+1223,esp32 rgb led arduino,0,0.0,1,4
+1224,nextion with esp32,0,0.0,1,12
+1225,is esp32 arm,0,0.0,1,12
+1226,iot development for esp32 and esp8266 with javascript,0,0.0,1,4
+1227,esp32 0x8000,0,0.0,1,17
+1228,esp32 development board size,0,0.0,1,4
+1229,rfid with esp32,0,0.0,1,12
+1230,is esp32 5v tolerant,0,0.0,1,4
+1231,which esp32 dev board,0,0.0,1,4
+1232,oled arduino esp32,0,0.0,1,12
+1233,is esp32 open source,0,0.0,1,4
+1234,esp32 mismatch or invalid event,0,0.0,1,4
+1235,esp32 can gpio,0,0.0,1,12
+1236,esp32 lora development board,0,0.0,1,4
+1237,getting started with esp32 cam,0,0.0,1,4
+1238,iot based ecg monitoring with ad8232 ecg sensor and esp32,0,0.0,1,4
+1239,esp32 development board power consumption,0,0.0,1,4
+1240,stm32 or esp32,0,0.0,1,12
+1241,esp32 alexa switch,0,0.0,1,12
+1242,ai thinker esp32 cam led,0,0.0,1,4
+1243,esp32 0x1000,0,0.0,1,17
+1244,relay module esp32,0,0.0,1,12
+1245,esp32 development board oled,0,0.0,1,4
+1246,arduino esp32 serial communication,0,0.0,1,4
+1247,r307 esp32,0,0.0,1,17
+1248,esp32 yolo,0,0.0,1,17
+1249,is esp32 reliable,0,0.0,1,12
+1250,iot project esp32,0,0.0,1,12
+1251,openhab esp32,0,0.0,1,17
+1252,esp32 how to flash,0,0.0,1,4
+1253,oled display module esp32,0,0.0,1,4
+1254,bluetooth tracker esp32,0,0.0,1,12
+1255,is esp32 secure,0,0.0,1,12
+1256,esp32 ceramic antenna,0,0.0,1,12
+1257,ifttt esp32 arduino,0,0.0,1,12
+1258,arduino due vs esp32,0,0.0,1,4
+1259,official doit esp32 development board,0,0.0,1,4
+1260,esp32 development board wifi,0,0.0,1,4
+1261,is esp32 arduino compatible,0,0.0,1,4
+1262,nodemcu esp32 blink led,0,0.0,1,4
+1263,mutex esp32,0,0.0,1,17
+1264,aws iot for esp32,0,0.0,1,4
+1265,video stream esp32,0,0.0,1,12
+1266,webthings esp32,0,0.0,1,17
+1267,esp32 vs esp32s wroom,0,0.0,1,4
+1268,esp32 development board layout,0,0.0,1,4
+1269,esp32 kolban book pdf,0,0.0,1,4
+1270,photoresistor esp32,0,0.0,1,17
+1271,timers esp32,0,0.0,1,17
+1272,esp32 with epaper,0,0.0,1,12
+1273,opc ua server esp32,0,0.0,1,4
+1274,esp32 40mhz,0,0.0,1,17
+1275,esp32 gatt server,0,0.0,1,12
+1276,internet radio with esp32,0,0.0,1,4
+1277,brownout esp32,0,0.0,1,17
+1278,esp32 keeps rebooting,0,0.0,1,12
+1279,onion omega vs esp32,0,0.0,1,4
+1280,esp32 connect to wifi without password,0,0.0,1,4
+1281,internet of things projects with esp32 build exciting and powerful iot,0,0.0,1,4
+1282,arduino esp32 timer library,0,0.0,1,4
+1283,esp32 6502 emulator,0,0.0,1,12
+1284,gas sensor with esp32,0,0.0,1,4
+1285,project iot esp32,0,0.0,1,12
+1286,esp32 1602 lcd,0,0.0,1,12
+1287,iot cloud esp32,0,0.0,1,12
+1288,esp32 development board wemos,0,0.0,1,4
+1289,esp32 how many gpio,0,0.0,1,4
+1290,fingerprint sensor esp32,0,0.0,1,12
+1291,ble beacon esp32,0,0.0,1,12
+1292,esp32 lipo battery,0,0.0,1,12
+1293,esp32 yield function,0,0.0,1,12
+1294,how much storage on esp32,0,0.0,1,4
+1295,makerfocus esp32 oled development board,0,0.0,1,4
+1296,esp32 yaml,0,0.0,1,17
+1297,print mac address esp32,0,0.0,1,4
+1298,esp32 000webhost,0,0.0,1,17
+1299,esp32 xqueuereceive,0,0.0,1,17
+1300,youtube micropython esp32,0,0.0,1,12
+1301,sd card with esp32,0,0.0,1,4
+1302,esp32 5v i2c,0,0.0,1,12
+1303,esp32 reset button,0,0.0,1,12
+1304,esp32 spi ss,0,0.0,1,12
+1305,esp32 iot app,0,0.0,1,12
+1306,sip phone esp32,0,0.0,1,12
+1307,esp32 vext,0,0.0,1,17
+1308,esp32 development board with jtag,0,0.0,1,4
+1309,arduino boards manager esp32,0,0.0,1,4
+1310,esp32 development board with oled,0,0.0,1,4
+1311,boards like esp32,0,0.0,1,12
+1312,how many gpio pins on esp32,0,0.0,1,4
+1313,esp32 how many pwm,0,0.0,1,4

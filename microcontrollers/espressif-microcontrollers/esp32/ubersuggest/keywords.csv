@@ -1,0 +1,482 @@
+﻿No,Keyword,Search Volume,CPC,Paid Difficulty,Search Difficulty
+1,"esp32",6600,"$11.32",83,57
+2,"esp32 cam",1900,"$0.33",50,34
+3,"esp32 camera",1900,"$0.33",50,34
+4,"esp32 pinout",1900,"$0.03",5,20
+5,"esp32 datasheet",720,"$7.68",93,46
+6,"esp32 arduino",590,"$4.88",99,48
+7,"esp32 projects",390,"$3.69",61,37
+8,"esp32 pin diagram",320,"$6.56",12,17
+9,"esp32 wroom",260,"$28.36",100,49
+10,"esp32 module",260,"$5.87",100,49
+11,"esp32 vs esp8266",260,"$4.76",100,44
+12,"esp32 wroom 32d",210,"$27.40",100,44
+13,"esp32 micropython",210,"$9.49",100,49
+14,"esp32 price",210,"$4.66",100,49
+15,"esp32 bluetooth",210,"$4.84",92,46
+16,"esp32 nodemcu",170,"$9.45",100,49
+17,"esp32 development board",170,"$6.77",100,44
+18,"esp32 board",170,"$4.67",100,49
+19,"esp32 programming",170,"$7.24",88,45
+20,"esp32 programmer",170,"$0",22,25
+21,"esp32 camera module",140,"$1.76",100,43
+22,"esp32 specification",140,"$9.70",98,48
+23,"esp32 s2",140,"$63.14",46,32
+24,"esp32 cam pinout",140,"$3.52",29,22
+25,"esp32 where to buy",110,"$18.96",100,36
+26,"esp32 buy",110,"$9.62",100,49
+27,"esp32 devkit v1",110,"$3.70",100,44
+28,"esp32 sim800l",110,"$1.98",100,48
+29,"esp32 cam price",110,"$0.01",60,31
+30,"esp32 pins",110,"$3.58",29,27
+31,"esp32 arduino ide",110,"$0",14,18
+32,"esp32 idf",110,"$0",5,20
+33,"esp32 devkit",90,"$13.88",100,49
+34,"esp32 wifi",90,"$8.95",100,48
+35,"esp32 lora",90,"$0.08",49,33
+36,"esp32 schematic",90,"$17.89",33,28
+37,"esp32 gpio pins",90,"$0",9,16
+38,"esp32 tutorial",90,"$3.21",7,21
+39,"esp32 web server",90,"$0",1,14
+40,"esp32 github",90,"$0",1,19
+41,"esp32 price in india",70,"$24.03",75,28
+42,"esp32 forum",70,"$0","00",18
+43,"esp32 board manager url",70,"$0","00",5
+44,"esp32 analog pins",70,"$0","00",13
+45,"esp32 microcontroller",50,"$6.37",93,46
+46,"esp32 wifi range",50,"$6.90",84,39
+47,"esp32 mqtt",50,"$0",4,20
+48,"esp32 devkit v1 pinout",50,"$0",1,6
+49,"esp32 ota",50,"$0",1,19
+50,"esp32 chip",40,"$4.20",100,49
+51,"esp32 home automation",40,"$5.32",94,42
+52,"esp32 lyrat",40,"$27.85",88,45
+53,"esp32 freertos",40,"$8.38",69,39
+54,"esp32 dev module",40,"$13.19",62,32
+55,"esp32 eye",40,"$0",61,37
+56,"esp32 features",40,"$15.88",60,37
+57,"esp32 ethernet",40,"$118.07",54,35
+58,"esp32 with arduino",40,"$6.72",48,28
+59,"esp32 led blink",40,"$0",5,15
+60,"esp32 library",40,"$0",3,19
+61,"esp32 pwm pins",40,"$0",1,14
+62,"esp32 in arduino ide",40,"$0","00",5
+63,"esp32 at commands",40,"$0","00",13
+64,"esp32 vs nodemcu",30,"$3.93",95,42
+65,"esp32 ic",30,"$23.52",88,45
+66,"esp32 touch sensor",30,"$0",61,32
+67,"esp32 wrover kit",30,"$46.47",45,27
+68,"esp32 adc",30,"$0",38,30
+69,"esp32 dimensions",30,"$0",19,24
+70,"esp32 wrover datasheet",30,"$0",5,15
+71,"esp32 wroom datasheet",30,"$63.37",4,15
+72,"esp32 power consumption",30,"$0",2,14
+73,"esp32 simulator",30,"$0",2,19
+74,"esp32 firebase",30,"$0",2,19
+75,"esp32 getting started",30,"$0","00",13
+76,"esp32 current consumption",30,"$0","00",13
+77,"esp32 wifi module",20,"$459.99",100,44
+78,"esp32 module datasheet",20,"$11.46",100,44
+79,"esp32 38 pin",20,"$7.10",100,44
+80,"esp32 display",20,"$3.28",100,49
+81,"esp32 amazon",20,"$1.72",100,49
+82,"esp32 with lora",20,"$1.45",100,44
+83,"esp32 cost",20,"$86.20",90,45
+84,"esp32 oled",20,"$207.26",88,45
+85,"esp32 ram",20,"$2.40",80,42
+86,"esp32 flash memory",20,"$4.84",78,37
+87,"esp32 iot projects",20,"$2.73",61,32
+88,"esp32 cam ai thinker",20,"$0",45,19
+89,"esp32 relay board",20,"$0",43,26
+90,"esp32 sd card",20,"$449.48",40,25
+91,"esp32 gateway",20,"$69.89",38,30
+92,"esp32 not connecting to wifi",20,"$0",35,16
+93,"esp32 bluetooth range",20,"$0",31,23
+94,"esp32 face recognition",20,"$0",24,21
+95,"esp32 38 pin pinout",20,"$0.91",24,13
+96,"esp32 with arduino ide",20,"$0",23,12
+97,"esp32 aws iot",20,"$94.47",19,19
+98,"esp32 rtc",20,"$0",14,23
+99,"esp32 temperature sensor",20,"$0",13,18
+100,"esp32 ttgo",20,"$0",13,22
+101,"esp32 google assistant",20,"$0",11,17
+102,"esp32 and esp8266",20,"$124.70",9,16
+103,"esp32 i2c",20,"$0",8,21
+104,"esp32 ide",20,"$3.09",8,21
+105,"esp32 mesh",20,"$0",7,21
+106,"esp32 ram size",20,"$107.68",6,15
+107,"esp32 wifi repeater",20,"$0",6,15
+108,"esp32 hardware design guidelines",20,"$0",6,7
+109,"esp32 library for proteus",20,"$0",4,7
+110,"esp32 range",20,"$0",3,19
+111,"esp32 eagle library",20,"$0",3,14
+112,"esp32 vs esp32s",20,"$0",3,14
+113,"esp32 firmware",20,"$0",3,19
+114,"esp32 emulator",20,"$0",1,19
+115,"esp32 video streaming",20,"$0",1,14
+116,"esp32 spiffs",20,"$0","00",18
+117,"esp32 documentation",20,"$0","00",18
+118,"esp32 http server",20,"$0","00",13
+119,"esp32 on arduino ide",20,"$0","00",5
+120,"esp32 memory map",20,"$0","00",13
+121,"esp32 module price",10,"$1,301.01",100,44
+122,"esp32 kit",10,"$376.50",100,49
+123,"esp32 buy online",10,"$164.25",100,44
+124,"esp32 4g",10,"$6.29",100,49
+125,"esp32 with ethernet",10,"$5.42",100,44
+126,"esp32 with display",10,"$5.21",100,44
+127,"esp32 ethernet kit",10,"$4.74",100,44
+128,"esp32 online",10,"$4.35",100,49
+129,"esp32 successor",10,"$3.88",100,49
+130,"esp32 4mb",10,"$3.86",100,49
+131,"esp32 with battery",10,"$3.16",100,44
+132,"esp32 with oled",10,"$2.87",100,44
+133,"esp32 with external antenna",10,"$1.67",100,36
+134,"esp32 yocto",10,"$0",100,49
+135,"esp32 can controller",10,"$0",100,44
+136,"esp32 7 inch display",10,"$0",100,36
+137,"esp32 433mhz receiver",10,"$0",100,44
+138,"esp32 9v battery",10,"$0",100,44
+139,"esp32 without usb",10,"$0",100,44
+140,"esp32 433mhz",10,"$0",100,49
+141,"esp32 how to program",10,"$0",100,36
+142,"which esp32 to buy",10,"$0",100,36
+143,"esp32 without wifi",10,"$0",100,44
+144,"esp32 vs arduino mega",10,"$0",98,35
+145,"esp32 espressif",10,"$0",97,48
+146,"what is esp32 development board",10,"$0",96,34
+147,"esp32 vs esp32d",10,"$0",92,41
+148,"esp32 4g lte",10,"$3.45",90,40
+149,"esp32 240mhz",10,"$0",88,45
+150,"esp32 for arduino",10,"$0",84,39
+151,"esp32 30 pin",10,"$0",79,37
+152,"esp32 nodemcu datasheet",10,"$7.47",73,35
+153,"esp32 ethernet board",10,"$0.06",69,34
+154,"esp32 can pins",10,"$0",65,33
+155,"esp32 with sd card",10,"$0",63,25
+156,"esp32 with camera",10,"$138.41",58,31
+157,"esp32 and arduino uno",10,"$0",57,23
+158,"esp32 for commercial products",10,"$0",54,22
+159,"esp32 can transceiver",10,"$0",54,30
+160,"what is esp32 module",10,"$0",53,22
+161,"esp32 user manual",10,"$39.23",53,29
+162,"esp32 to arduino",10,"$0",52,29
+163,"esp32 uart",10,"$0",46,32
+164,"esp32 vs raspberry pi",10,"$0",44,19
+165,"esp32 lora gateway",10,"$0",44,27
+166,"esp32 01",10,"$0",43,31
+167,"esp32 0.96 oled",10,"$164.04",43,26
+168,"esp32 16mb flash",10,"$0",43,26
+169,"esp32 5v relay",10,"$0",43,26
+170,"esp32 xtensa",10,"$0",43,31
+171,"esp32 gpio",10,"$0",43,31
+172,"esp32 8 channel relay",10,"$0",41,18
+173,"esp32 microphone",10,"$252.74",39,30
+174,"esp32 can bus arduino",10,"$0",36,16
+175,"esp32 5mp camera",10,"$0",36,24
+176,"esp32 5v",10,"$0",36,29
+177,"esp32 sim800l price",10,"$0",36,24
+178,"esp32 operating voltage",10,"$6.92",34,24
+179,"what is esp32 used for",10,"$2.11",32,15
+180,"can esp32",10,"$0",32,28
+181,"esp32 oscilloscope",10,"$0",29,27
+182,"esp32 5v tolerant",10,"$0",29,22
+183,"esp32 for dummies",10,"$0",29,22
+184,"esp32 kaluga",10,"$0",29,27
+185,"esp32 freertos arduino",10,"$0",27,22
+186,"esp32 30 pin vs 38 pin",10,"$0",26,13
+187,"esp32 5v output",10,"$0",26,21
+188,"esp32 ir blaster",10,"$0",24,21
+189,"esp32 not working",10,"$0",18,19
+190,"esp32 gps",10,"$0",18,24
+191,"esp32 can bus pins",10,"$0",17,10
+192,"esp32 built in led pin",10,"$0",16,10
+193,"esp32 for beginners",10,"$0",14,18
+194,"esp32 to arduino uno",10,"$0",14,10
+195,"esp32 mpu 9250",10,"$0",14,18
+196,"esp32 keypad",10,"$0",14,23
+197,"esp32 30 pin datasheet",10,"$0",14,10
+198,"esp32 hardware serial",10,"$0",14,18
+199,"esp32 4g modem",10,"$0",14,18
+200,"esp32 jtag debugging",10,"$0",14,18
+201,"esp32 5ghz",10,"$0",13,22
+202,"esp32 timer",10,"$0",13,22
+203,"esp32 jtag pinout",10,"$0",12,17
+204,"esp32 can bus",10,"$0",12,17
+205,"esp32 gsm",10,"$0",10,21
+206,"esp32 uart pins",10,"$0",9,16
+207,"esp32 nrf24l01",10,"$0",9,21
+208,"esp32 for arduino ide",10,"$0",9,8
+209,"esp32 vs esp-wroom-32",10,"$0",7,16
+210,"esp32 devkit v4 pinout",10,"$0",6,7
+211,"esp32 ultrasonic sensor",10,"$0",6,15
+212,"esp32 flash memory size",10,"$0",5,7
+213,"esp32 kicad library",10,"$0",5,15
+214,"esp32 voice recognition",10,"$0",5,15
+215,"esp32 sim800l module",10,"$0",4,15
+216,"esp32 16x2 lcd",10,"$0",4,15
+217,"esp32 eeprom",10,"$0",3,19
+218,"esp32 adc calibration",10,"$0",3,14
+219,"esp32 zigbee",10,"$0",3,19
+220,"what is esp32 arduino",10,"$0",2,6
+221,"esp32 sim800l datasheet",10,"$0",2,14
+222,"esp32 rtos",10,"$0",2,19
+223,"esp32 vs arduino uno",10,"$0",1,6
+224,"esp32 led matrix",10,"$0",1,14
+225,"esp32 reference manual",10,"$0",1,14
+226,"esp32 interrupt",10,"$0",1,19
+227,"esp32 gpio example",10,"$0","00",13
+228,"esp32 os",10,"$0","00",18
+229,"esp32 zephyr",10,"$0","00",18
+230,"esp32 2020",10,"$0","00",18
+231,"esp32 http client",10,"$0","00",13
+232,"esp32 xtaskcreatepinnedtocore",10,"$0","00",18
+233,"esp32 nvs",10,"$0","00",18
+234,"esp32 12v input",10,"$0","00",13
+235,"esp32 javascript",10,"$0","00",18
+236,"esp32 usb host",10,"$0","00",13
+237,"esp32 xbee",10,"$0","00",18
+238,"esp32 jtag",10,"$0","00",18
+239,"esp32 3.3v",10,"$0","00",18
+240,"esp32 url",10,"$0","00",18
+241,"esp32 neopixel",10,"$0","00",18
+242,"esp32 28byj-48",10,"$0","00",18
+243,"esp32 for fritzing",10,"$0","00",13
+244,"esp32 https",10,"$0","00",18
+245,"esp32 java",10,"$0","00",18
+246,"esp-who esp32",10,"$0","00",18
+247,"esp32 qspi",10,"$0","00",18
+248,"esp32 quadrature encoder",10,"$0","00",13
+249,"esp32 youtube",10,"$0","00",18
+250,"esp32 queue",10,"$0","00",18
+251,"esp32 http post json",10,"$0","00",5
+252,"esp32 can bus example",10,"$0","00",5
+253,"esp32 7 segment display",10,"$0","00",5
+254,"esp32 nodemcu schematic",10,"$0","00",13
+255,"esp32 to firebase",10,"$0","00",13
+256,"esp32 6lowpan",10,"$0","00",18
+257,"esp32 onboard led pin",10,"$0","00",5
+258,"esp32 8mb flash",10,"$0","00",13
+259,"esp32 nodemcu pinout",10,"$0","00",13
+260,"esp32 keypad library",10,"$0","00",13
+261,"esp32 3d printer",10,"$0","00",13
+262,"esp32 vs stm32",10,"$0","00",13
+263,"esp32 quadcopter",10,"$0","00",18
+264,"esp32 jlink",10,"$0","00",18
+265,"esp32 to google sheets",10,"$0","00",5
+266,"esp32 5v logic",10,"$0","00",13
+267,"esp32 esp-idf",10,"$0","00",18
+268,"esp32 linux",10,"$0","00",18
+269,"esp32 ota example",10,"$0","00",13
+270,"esp32 json",10,"$0","00",18
+271,"esp32 4-20ma",10,"$0","00",18
+272,"esp32 3d model",10,"$0","00",13
+273,"esp32 for sale",10,"$0","00",13
+274,"esp32 74hc595",10,"$0","00",18
+275,"esp32 12v",10,"$0","00",18
+276,"ezsbc esp32-01",10,"$0","00",18
+277,"esp32 timer interrupt",10,"$0","00",13
+278,"esp32 led pin",10,"$0","00",13
+279,"esp32 i2c pins",10,"$0","00",13
+280,"esp32 xtaskcreate",10,"$0","00",18
+281,"esp32 yield",10,"$0","00",18
+282,"esp32 keyboard",10,"$0","00",18
+283,"esp32 zx spectrum",10,"$0","00",13
+284,"esp32 internal rtc example",10,"$0","00",5
+285,"esp32 36 pin",10,"$0","00",13
+286,"esp32 adc sample rate",10,"$0","00",5
+287,"esp32 thingsboard",10,"$0","00",18
+288,"esp32 2s",10,"$0","00",18
+289,"esp32 1.8v",10,"$0","00",18
+290,"esp32 tensorflow",10,"$0","00",18
+291,"esp32 2 cores",10,"$0","00",13
+292,"esp32 220v",10,"$0","00",18
+293,"esp32 queue example",10,"$0","00",13
+294,"esp32 json example",10,"$0","00",13
+295,"esp32 example arduino",10,"$0","00",13
+296,"esp32 cam blynk",10,"$0","00",13
+297,"esp32 json link",10,"$0","00",13
+298,"esp32 and sd card",10,"$0","00",5
+299,"esp32 ota https",10,"$0","00",13
+300,"esp32 rtc example",10,"$0","00",13
+301,"esp32 ultrasonic sensor code",10,"$0","00",5
+302,"esp32 unique id",10,"$0","00",13
+303,"esp32 modbus rtu slave",10,"$0","00",5
+304,"esp32 board in arduino ide",10,"$0","00",5
+305,"esp32 4mb flash",10,"$0","00",13
+306,"esp32 1-wire",10,"$0","00",18
+307,"esp32 lyrat schematic",10,"$0","00",13
+308,"esp32 1080p camera",10,"$0","00",13
+309,"esp32 get mac address",10,"$0","00",5
+310,"esp32 ulp arduino",10,"$0","00",13
+311,"esp32 http get request",10,"$0","00",5
+312,"esp32 http server example",10,"$0","00",5
+313,"esp32 and raspberry pi",10,"$0","00",5
+314,"esp32 serial2",10,"$0","00",18
+315,"esp32 xtal",10,"$0","00",18
+316,"esp32 xbee module",10,"$0","00",13
+317,"esp32 ymodem",0,"$0","00","00"
+318,"esp32 what pins to use",0,"$0","00","00"
+319,"esp32 16x2 lcd without i2c",0,"$0","00","00"
+320,"esp32 12v relay",0,"$0","00","00"
+321,"esp32 7 segment led",0,"$0","00","00"
+322,"esp32 9250",0,"$0","00","00"
+323,"esp32 0x1000",0,"$0","00","00"
+324,"esp32 how to flash",0,"$0","00","00"
+325,"esp32 which pins",0,"$0","00","00"
+326,"esp32 64mb",0,"$0","00","00"
+327,"esp32 how many i2c",0,"$0","00","00"
+328,"esp32 6050",0,"$0","00","00"
+329,"esp32 how many timers",0,"$0","00","00"
+330,"esp32 7 segment",0,"$0","00","00"
+331,"esp32 000webhost",0,"$0","00","00"
+332,"esp32 how to use",0,"$0","00","00"
+333,"how much storage on esp32",0,"$0","00","00"
+334,"esp32 without board",0,"$0","00","00"
+335,"esp32 24v",0,"$0","00","00"
+336,"where to buy esp32 chip",0,"$0","00","00"
+337,"esp32 how much flash",0,"$0","00","00"
+338,"esp32 ble",0,"$0","00","00"
+339,"how many analog pins in esp32",0,"$0","00","00"
+340,"esp32 yeelight",0,"$0","00","00"
+341,"esp32 7 tft",0,"$0","00","00"
+342,"esp32 and firebase",0,"$0","00","00"
+343,"esp32 to ethernet",0,"$0","00","00"
+344,"which is better esp32 vs esp8266",0,"$0","00","00"
+345,"how esp32 works",0,"$0","00","00"
+346,"esp32 which ide",0,"$0","00","00"
+347,"is esp32 arm",0,"$0","00","00"
+348,"esp32 6502",0,"$0","00","00"
+349,"esp32 how to use dual core",0,"$0","00","00"
+350,"esp32 40 pin",0,"$0","00","00"
+351,"esp32 to mysql",0,"$0","00","00"
+352,"esp32 xsemaphoretake",0,"$0","00","00"
+353,"esp32 like",0,"$0","00","00"
+354,"is esp32 open source",0,"$0","00","00"
+355,"esp32 for production",0,"$0","00","00"
+356,"esp32 kaufen",0,"$0","00","00"
+357,"esp32 how much ram",0,"$0","00","00"
+358,"esp32 yf-s201",0,"$0","00","00"
+359,"esp32 what is psram",0,"$0","00","00"
+360,"esp32 how to start",0,"$0","00","00"
+361,"esp32 9 bit spi",0,"$0","00","00"
+362,"esp32 yaml",0,"$0","00","00"
+363,"esp32 30 pin pinout",0,"$0","00","00"
+364,"esp32 how many analog pins",0,"$0","00","00"
+365,"esp32 without freertos",0,"$0","00","00"
+366,"esp32 9dof",0,"$0","00","00"
+367,"esp32 what can it do",0,"$0","00","00"
+368,"where is xtensa-esp32-elf-gcc",0,"$0","00","00"
+369,"esp32 7789",0,"$0","00","00"
+370,"esp32 4k camera",0,"$0","00","00"
+371,"esp32 without arduino",0,"$0","00","00"
+372,"esp32 which core",0,"$0","00","00"
+373,"is esp32 and arduino",0,"$0","00","00"
+374,"esp32 without arduino ide",0,"$0","00","00"
+375,"esp32 zip library",0,"$0","00","00"
+376,"esp32 to thingspeak",0,"$0","00","00"
+377,"esp32 yolo",0,"$0","00","00"
+378,"esp32 64x32 rgb matrix",0,"$0","00","00"
+379,"esp32 zeromq",0,"$0","00","00"
+380,"esp32 which pins to use",0,"$0","00","00"
+381,"esp32 to arduino ide",0,"$0","00","00"
+382,"esp32 5v or 3.3v",0,"$0","00","00"
+383,"esp32 zlib",0,"$0","00","00"
+384,"how many gpio pins on esp32",0,"$0","00","00"
+385,"esp32 and ov7670",0,"$0","00","00"
+386,"esp32 qmk",0,"$0","00","00"
+387,"esp32 how many spi",0,"$0","00","00"
+388,"esp32 7 display",0,"$0","00","00"
+389,"esp32 6502 emulator",0,"$0","00","00"
+390,"esp32 6v",0,"$0","00","00"
+391,"esp32 yield function",0,"$0","00","00"
+392,"boards like esp32",0,"$0","00","00"
+393,"is esp32 a microcontroller",0,"$0","00","00"
+394,"is esp32 arduino compatible",0,"$0","00","00"
+395,"how much ram does esp32 have",0,"$0","00","00"
+396,"esp32 which gpio",0,"$0","00","00"
+397,"esp32 9v",0,"$0","00","00"
+398,"esp32 without rtos",0,"$0","00","00"
+399,"esp32 9 bit serial",0,"$0","00","00"
+400,"is esp32 reliable",0,"$0","00","00"
+401,"can esp32 run linux",0,"$0","00","00"
+402,"esp32 for industrial",0,"$0","00","00"
+403,"esp32 how to connect to wifi",0,"$0","00","00"
+404,"esp32 how many interrupts",0,"$0","00","00"
+405,"esp32 kopen",0,"$0","00","00"
+406,"esp32 how many pwm",0,"$0","00","00"
+407,"why use esp32",0,"$0","00","00"
+408,"esp32-01 breakout and development board",0,"$0","00","00"
+409,"esp32 how to power",0,"$0","00","00"
+410,"esp32 qr code scanner",0,"$0","00","00"
+411,"esp32 zero crossing",0,"$0","00","00"
+412,"esp32 keeps rebooting",0,"$0","00","00"
+413,"is esp32 5v tolerant",0,"$0","00","00"
+414,"esp32 0.96 inch oled",0,"$0","00","00"
+415,"esp32 2.8 tft",0,"$0","00","00"
+416,"esp32 how many uarts",0,"$0","00","00"
+417,"esp32 without flash",0,"$0","00","00"
+418,"esp32 which gpio to use",0,"$0","00","00"
+419,"is esp32 secure",0,"$0","00","00"
+420,"esp32 jtag programming",0,"$0","00","00"
+421,"esp32 what to do",0,"$0","00","00"
+422,"esp32 64 bit",0,"$0","00","00"
+423,"is esp32 arm based",0,"$0","00","00"
+424,"esp32 without boot button",0,"$0","00","00"
+425,"esp32 xbox controller",0,"$0","00","00"
+426,"esp32 9 bit uart",0,"$0","00","00"
+427,"esp32 what is rtc",0,"$0","00","00"
+428,"esp32 900mhz",0,"$0","00","00"
+429,"esp32 how many gpio",0,"$0","00","00"
+430,"esp32 yellow board",0,"$0","00","00"
+431,"esp32 to aws iot",0,"$0","00","00"
+432,"what esp32 to buy",0,"$0","00","00"
+433,"esp32 without antenna",0,"$0","00","00"
+434,"esp32 74hc165",0,"$0","00","00"
+435,"esp32 qemu",0,"$0","00","00"
+436,"esp32 9600",0,"$0","00","00"
+437,"esp32 60fps",0,"$0","00","00"
+438,"can esp32 replace arduino",0,"$0","00","00"
+439,"esp32 to raspberry pi",0,"$0","00","00"
+440,"esp32 and mqtt",0,"$0","00","00"
+441,"esp32 and android app",0,"$0","00","00"
+442,"esp32 5v pin",0,"$0","00","00"
+443,"esp32 sim800 blynk",0,"$0","00","00"
+444,"esp32 for proteus",0,"$0","00","00"
+445,"esp32 0-10v output",0,"$0","00","00"
+446,"esp32 upload file to server",0,"$0","00","00"
+447,"esp32 trm",0,"$0","00","00"
+448,"esp32 2 i2c",0,"$0","00","00"
+449,"esp32 and dht11",0,"$0","00","00"
+450,"esp32 https client example",0,"$0","00","00"
+451,"which esp32 board",0,"$0","00","00"
+452,"esp32 xbox one controller",0,"$0","00","00"
+453,"which esp32 do i have",0,"$0","00","00"
+454,"esp32 5v power",0,"$0","00","00"
+455,"esp32 74hc4067",0,"$0","00","00"
+456,"esp32 zigbee library",0,"$0","00","00"
+457,"esp32 xtaskgettickcount",0,"$0","00","00"
+458,"esp32 zmpt101b",0,"$0","00","00"
+459,"esp32 vspi example",0,"$0","00","00"
+460,"esp32 0.96 inch oled display",0,"$0","00","00"
+461,"esp32 sim800l github",0,"$0","00","00"
+462,"esp32 how many adc",0,"$0","00","00"
+463,"esp32 zadig",0,"$0","00","00"
+464,"esp32 robu",0,"$0","00","00"
+465,"esp32 rtc library",0,"$0","00","00"
+466,"esp32 sim800l pinout",0,"$0","00","00"
+467,"esp32 16 channel relay",0,"$0","00","00"
+468,"are esp32 pins 5v tolerant",0,"$0","00","00"
+469,"esp32 01 pinout",0,"$0","00","00"
+470,"esp32 sim800l connection",0,"$0","00","00"
+471,"esp32 bin file",0,"$0","00","00"
+472,"esp32 nat router",0,"$0","00","00"
+473,"esp32 240mhz arduino",0,"$0","00","00"
+474,"esp32 keeps disconnecting",0,"$0","00","00"
+475,"esp32 64x32 matrix",0,"$0","00","00"
+476,"esp32 qr code",0,"$0","00","00"
+477,"esp32 arduino json link",0,"$0","00","00"
+478,"esp32 quad spi",0,"$0","00","00"
+479,"esp32 time functions",0,"$0","00","00"
+480,"esp32 vs esp8266 pinout",0,"$0","00","00"
+481,"esp32 and thingspeak",0,"$0","00","00"

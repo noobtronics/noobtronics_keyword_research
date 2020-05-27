@@ -1,0 +1,187 @@
+
+
+<style>
+  table {
+    border-collapse: collapse;
+    white-space: nowrap;
+
+  }
+
+
+  table, th, td{
+    border: 1px solid #c0c0c0;
+    padding: 4px 10px;
+    padding-right: 30px;
+    font-family: Verdana;
+  }
+  th{
+    text-align: center !important;
+  }
+</style>
+
+<script src="https://beta.noobtronics.ltd/static/js/tablefilter/tablefilter.js"></script>
+
+
+<table border="1" id="demo" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>No</th>
+      <th>Keyword</th>
+      <th>Search Volume</th>
+      <th>CPC</th>
+      <th>Paid Difficulty</th>
+      <th>Search Difficulty</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>5</th>
+      <td>6</td>
+      <td>how to code arduino pro mini</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>7</td>
+      <td>why arduino pro mini retired</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>8</td>
+      <td>how to flash arduino pro mini</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>9</td>
+      <td>how to upload arduino pro mini</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>10</td>
+      <td>how to program arduino pro mini with ftdi</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>11</td>
+      <td>can't upload to arduino pro mini</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>12</td>
+      <td>why is arduino pro mini retired</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>13</td>
+      <td>which programmer for arduino pro mini</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>14</td>
+      <td>how program arduino pro mini</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>15</td>
+      <td>how to arduino pro mini</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>4</td>
+      <td>how to connect arduino pro mini to pc</td>
+      <td>10</td>
+      <td>0.00</td>
+      <td>3</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>0</th>
+      <td>1</td>
+      <td>how to program arduino pro mini with uno</td>
+      <td>10</td>
+      <td>0.00</td>
+      <td>6</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>5</td>
+      <td>how to use arduino pro mini</td>
+      <td>10</td>
+      <td>0.00</td>
+      <td>7</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2</td>
+      <td>what is arduino pro mini</td>
+      <td>10</td>
+      <td>488.36</td>
+      <td>33</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>3</td>
+      <td>how to power arduino pro mini</td>
+      <td>10</td>
+      <td>0.00</td>
+      <td>75</td>
+      <td>28</td>
+    </tr>
+  </tbody>
+</table>
+<script>
+    var tf = new TableFilter('demo',{
+        base_path: 'https://beta.noobtronics.ltd/static/js/tablefilter/',
+        extensions:[{ name: 'sort' }],
+        col_types: [
+            'number', 'number', 'string',
+            'number', 'number', 'number',
+            'number'
+        ],
+    });
+
+    tf.init();
+</script>
