@@ -1,0 +1,203 @@
+
+
+<style>
+  table {
+    border-collapse: collapse;
+    white-space: nowrap;
+
+  }
+
+
+  table, th, td{
+    border: 1px solid #c0c0c0;
+    padding: 4px 10px;
+    padding-right: 30px;
+    font-family: Verdana;
+  }
+  th{
+    text-align: center !important;
+  }
+</style>
+
+<script src="https://beta.noobtronics.ltd/static/js/tablefilter/tablefilter.js"></script>
+
+
+<table border="1" id="demo" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>No</th>
+      <th>Keyword</th>
+      <th>Search Volume</th>
+      <th>CPC</th>
+      <th>Paid Difficulty</th>
+      <th>Search Difficulty</th>
+      <th>word_count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>6</th>
+      <td>7</td>
+      <td>what is arduino uno starter kit</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>8</td>
+      <td>what's the best arduino starter kit</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>9</td>
+      <td>where to buy arduino starter kit in philippines</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>11</td>
+      <td>how to make arduino starter kit</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>12</td>
+      <td>what does arduino starter kit contains</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>13</td>
+      <td>where to buy arduino starter kit in delhi</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>14</td>
+      <td>what comes in arduino starter kit</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>15</td>
+      <td>does the arduino starter kit come with screws</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <th>0</th>
+      <td>1</td>
+      <td>is the arduino starter kit worth it</td>
+      <td>10</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>5</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2</td>
+      <td>where to buy arduino starter kit</td>
+      <td>10</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>5</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>3</td>
+      <td>which arduino starter kit should i buy</td>
+      <td>10</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>5</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>4</td>
+      <td>which arduino starter kit</td>
+      <td>10</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>5</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>10</td>
+      <td>how to use arduino starter kit</td>
+      <td>10</td>
+      <td>0.00</td>
+      <td>29</td>
+      <td>14</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>6</td>
+      <td>which arduino starter kit to buy</td>
+      <td>10</td>
+      <td>0.00</td>
+      <td>43</td>
+      <td>18</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>5</td>
+      <td>what is arduino starter kit</td>
+      <td>10</td>
+      <td>238.77</td>
+      <td>50</td>
+      <td>21</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+<script>
+    var tf = new TableFilter('demo',{
+        base_path: 'https://beta.noobtronics.ltd/static/js/tablefilter/',
+        extensions:[{ name: 'sort' }],
+        col_types: [
+            'number', 'number', 'string',
+            'number', 'number', 'number',
+            'number'
+        ],
+    });
+
+    tf.init();
+</script>
