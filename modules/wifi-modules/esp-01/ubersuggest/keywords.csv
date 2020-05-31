@@ -1,0 +1,327 @@
+﻿No,Keyword,Search Volume,CPC,Paid Difficulty,Search Difficulty
+1,"esp 01",720,"$0.03",46,32
+2,"esp 01 pinout",480,"$2.49",35,24
+3,"esp8266 01 pinout",210,"$0.49",30,23
+4,"esp 01 programmer",110,"$4.34",100,44
+5,"esp8266 esp 01",110,"$4.11",100,44
+6,"esp 01 programming",110,"$1.81",96,42
+7,"esp 01 esp8266",110,"$0",64,33
+8,"esp 01 arduino",90,"$4.41",67,33
+9,"esp 01 datasheet",90,"$4.69",64,33
+10,"esp8266 01 datasheet",90,"$7.11",48,28
+11,"esp 01 wifi module",50,"$0",51,21
+12,"esp 01 adapter",40,"$3.19",100,44
+13,"esp8266 01 arduino",40,"$0",38,25
+14,"esp 01 pins",30,"$4.28",77,36
+15,"esp 01 with arduino",30,"$0",5,7
+16,"esp 01 module",20,"$3.24",100,44
+17,"esp 01 relay",20,"$1.95",100,44
+18,"esp 01 price",20,"$0",64,33
+19,"esp 01 projects",20,"$0",36,24
+20,"esp 01 schematic",20,"$0",3,14
+21,"esp 01 usb adapter",10,"$0",100,36
+22,"esp-01/01s",10,"$0",100,62
+23,"esp8266 01 programming",10,"$0",90,41
+24,"esp 01 5v",10,"$0",86,39
+25,"esp 01 uart programmer",10,"$0",81,30
+26,"esp 01 bluetooth",10,"$0",74,36
+27,"esp 01 4 relay",10,"$0",71,27
+28,"esp 01 wifi module arduino",10,"$0",65,25
+29,"esp 01 vcc",10,"$0",57,31
+30,"esp-01/01s relay",10,"$0",57,36
+31,"esp 01 s",10,"$0",50,29
+32,"esp 01 with arduino uno",10,"$3.34",43,18
+33,"esp 01 8266",10,"$0",40,26
+34,"esp 01 wiring",10,"$0",39,25
+35,"esp 01 circuit",10,"$0",36,24
+36,"esp 01 uart",10,"$0",29,22
+37,"esp 01 vs esp32",10,"$0",29,14
+38,"esp 01/01s relay module tutorial",10,"$0",29,14
+39,"esp-01 vs esp-12",10,"$0",29,22
+40,"esp 01 vs esp 12",10,"$0",29,14
+41,"esp 01 wifi",10,"$0",24,21
+42,"esp 01 breakout board",10,"$0",24,13
+43,"esp 01 power supply",10,"$0",19,11
+44,"esp 01 ch_pd",10,"$0",14,18
+45,"esp-01 3d printer",10,"$0",14,18
+46,"esp-01 with relay",10,"$0",14,18
+47,"esp 01 relay control",10,"$0",14,10
+48,"esp 01 board",10,"$0",14,18
+49,"esp 01 firmware",10,"$0",13,17
+50,"esp 01 ftdi",10,"$0",11,17
+51,"esp 01 specs",10,"$0",10,17
+52,"esp 01 specification",10,"$0",10,17
+53,"esp 01 gpio",10,"$0",10,16
+54,"esp 01 mqtt",10,"$0",9,16
+55,"esp 01 dht11",10,"$0",8,16
+56,"esp 01 vs esp01s",10,"$0",7,8
+57,"esp 01 circuit diagram",10,"$0",7,8
+58,"esp 01 blynk",10,"$0",6,15
+59,"esp 01 firebase",10,"$0",5,15
+60,"esp 01 ir remote",10,"$0",5,7
+61,"esp 01 power consumption",10,"$0",4,7
+62,"esp 01 web server",10,"$0",4,7
+63,"esp 01 current consumption",10,"$0",4,7
+64,"esp 01 at commands",10,"$0",3,6
+65,"esp 01 rgb led",10,"$0",3,6
+66,"esp 01 interrupt",10,"$0",3,14
+67,"esp 01 external antenna",10,"$0",3,6
+68,"esp 01 thingspeak",10,"$0","00",13
+69,"esp-01/01s relay v4.0 schematic",10,"$0","00",5
+70,"esp 01 4mb",10,"$0","00",13
+71,"esp 01 current draw",10,"$0","00",5
+72,"esp 01 micropython",10,"$0","00",13
+73,"esp 01 temperature sensor",10,"$0","00",5
+74,"esp 01 memory",10,"$0","00",13
+75,"esp 01 breakout",10,"$0","00",13
+76,"esp 01 code",10,"$0","00",13
+77,"esp 01 raspberry pi",10,"$0","00",5
+78,"esp 01 ota",10,"$0","00",13
+79,"esp 01 vs 01s",10,"$0","00",5
+80,"esp 01 esphome",10,"$0","00",13
+81,"esp 01 usable pins",10,"$0","00",5
+82,"esp 01 motion sensor",10,"$0","00",5
+83,"esp 01 blink",10,"$0","00",13
+84,"esp 01 eeprom",10,"$0","00",13
+85,"esp 01 not working",10,"$0","00",5
+86,"esp 01 i2c",10,"$0","00",13
+87,"esp 01 deep sleep",10,"$0","00",5
+88,"esp 01 i2c lcd",10,"$0","00",5
+89,"esp 01 reset",10,"$0","00",13
+90,"esp 01 door sensor",10,"$0","00",5
+91,"esp 01 library",10,"$0","00",13
+92,"esp 01 dht",10,"$0","00",13
+93,"esp 01 voltage",10,"$0","00",13
+94,"esp 01 tutorial",10,"$0","00",13
+95,"esp 01 usb programmer",10,"$0","00",5
+96,"esp 01 flash mode",10,"$0","00",5
+97,"esp 01 relay board",10,"$0","00",5
+98,"esp 01 servo",10,"$0","00",13
+99,"esp 01 5v tolerant",10,"$0","00",5
+100,"esp 01 neopixel",10,"$0","00",13
+101,"esp-01 how to program",10,"$0","00",5
+102,"esp 01 bme280",10,"$0","00",13
+103,"esp 01 fritzing",10,"$0","00",13
+104,"esp 01 connection",10,"$0","00",13
+105,"esp 01 arduino ide",10,"$0","00",5
+106,"esp 01 to arduino",10,"$0","00",5
+107,"esp 01 ds18b20",10,"$0","00",13
+108,"esp-01 2 relay",10,"$0","00",13
+109,"esp 01 tasmota",10,"$0","00",13
+110,"esp 01 range",10,"$0","00",13
+111,"esp-01 vs nodemcu",10,"$0","00",13
+112,"esp 01 wifi repeater",10,"$0","00",5
+113,"esp 01 getting started",10,"$0","00",5
+114,"esp-01 update firmware",10,"$0","00",13
+115,"esp 01 flash size",10,"$0","00",5
+116,"esp 01 nodemcu",10,"$0","00",13
+117,"esp 01 oled",10,"$0","00",13
+118,"esp 01 github",10,"$0","00",13
+119,"esp 01 dht22",10,"$0","00",13
+120,"esp 01/01s relay module",10,"$0","00",5
+121,"esp-01/01s relay v4.0",10,"$0","00",13
+122,"esp-01 gpio0",10,"$0","00",18
+123,"how to program esp 01 with arduino",10,"$0","00",5
+124,"esp-01 oled display",10,"$0","00",13
+125,"esp 01 google assistant",10,"$0","00",5
+126,"esp 01 ftdi connection",10,"$0","00",5
+127,"esp 01 flash tool",10,"$0","00",5
+128,"how to power esp-01",10,"$0","00",5
+129,"esp 01 softwareserial",10,"$0","00",13
+130,"esp 01 servo control",10,"$0","00",5
+131,"how to program esp-01",10,"$0","00",5
+132,"esp-01 usb",10,"$0","00",18
+133,"esp-01 dht22",10,"$0","00",18
+134,"esp 01 blue led",10,"$0","00",5
+135,"esp 01 relay tasmota",10,"$0","00",5
+136,"usb to esp-01 adapter driver",10,"$0","00",5
+137,"esp 01 ip address",10,"$0","00",5
+138,"how to connect esp 01 to arduino",10,"$0","00",5
+139,"esp 01 serial communication",10,"$0","00",5
+140,"esp-01 nodemcu firmware",10,"$0","00",13
+141,"esp8266 esp-01 5v wifi relay module",10,"$0","00",5
+142,"using esp-01 and arduino uno",10,"$0","00",5
+143,"usb to esp-01",10,"$0","00",13
+144,"esp-01 kicad",10,"$0","00",18
+145,"esp 01 connection with arduino uno",10,"$0","00",5
+146,"esp-01 esp-12",10,"$0","00",18
+147,"usb to esp-01 adapter",10,"$0","00",5
+148,"esp 01 adc pin",10,"$0","00",5
+149,"esp-01 vs esp-12e",10,"$0","00",13
+150,"esp-01 1mb",10,"$0","00",18
+151,"esp8266 01 pins",10,"$0","00",13
+152,"esp 01 led pin",10,"$0","00",5
+153,"esp-01 arduino mega 2560",10,"$0","00",5
+154,"esp 01 serial",10,"$0","00",13
+155,"esp 01 wifi range",10,"$0","00",5
+156,"esp 01 mesh network",10,"$0","00",5
+157,"esp 01 voltage range",10,"$0","00",5
+158,"how to program esp 01 with arduino uno",10,"$0","00",5
+159,"esp-01 not connecting to wifi",10,"$0","00",5
+160,"esp-01 usb ttl",10,"$0","00",13
+161,"esp 01 built in led pin",10,"$0","00",5
+162,"esp 01 temp humidity",10,"$0","00",5
+163,"esp8266 01 blynk",10,"$0","00",13
+164,"esp 01 arduino connection",10,"$0","00",5
+165,"esp 01 memory size",10,"$0","00",5
+166,"esp 01 connect to wifi",10,"$0","00",5
+167,"esp 01 arduino library",10,"$0","00",5
+168,"esp 01 firmware update",10,"$0","00",5
+169,"esp-01 voltage regulator",10,"$0","00",13
+170,"esp 01 max current",10,"$0","00",5
+171,"esp-01 gpio2",10,"$0","00",18
+172,"esp-01 google home",10,"$0","00",13
+173,"esp 01 led control",10,"$0","00",5
+174,"esp 01 arduino code",10,"$0","00",5
+175,"connect arduino to esp-01",0,"$0","00","00"
+176,"esp 01 12v",0,"$0","00","00"
+177,"esp-01 quick start",0,"$0","00","00"
+178,"getting started with esp 01",0,"$0","00","00"
+179,"arduino with esp-01",0,"$0","00","00"
+180,"esp 01 wifi jammer",0,"$0","00","00"
+181,"esp-01 onboard led pin",0,"$0","00","00"
+182,"esp 01 pin 2",0,"$0","00","00"
+183,"esp 01 sleep mode",0,"$0","00","00"
+184,"esp 01 red led",0,"$0","00","00"
+185,"esp 01 onboard led",0,"$0","00","00"
+186,"esp-01 74hc595",0,"$0","00","00"
+187,"esp-01 160mhz",0,"$0","00","00"
+188,"esp 01 bmp280",0,"$0","00","00"
+189,"esp 01 pin diagram",0,"$0","00","00"
+190,"esp-01/01s relay v4",0,"$0","00","00"
+191,"esp 01 http request",0,"$0","00","00"
+192,"esp8266 esp-01 5v relay module",0,"$0","00","00"
+193,"esp-01 32mb",0,"$0","00","00"
+194,"esp 01 led blink",0,"$0","00","00"
+195,"esp 01 i2c pins",0,"$0","00","00"
+196,"esp-01 3 gpio",0,"$0","00","00"
+197,"esp-01 zasilanie",0,"$0","00","00"
+198,"esp 01 vcc 5v",0,"$0","00","00"
+199,"esp 01 boot mode",0,"$0","00","00"
+200,"esp 01 3v",0,"$0","00","00"
+201,"esp-01 512k",0,"$0","00","00"
+202,"esp 01 latest firmware",0,"$0","00","00"
+203,"esp 01 5v relay",0,"$0","00","00"
+204,"esp 01 javascript",0,"$0","00","00"
+205,"esp-01 how to flash",0,"$0","00","00"
+206,"esp 01 kondensator",0,"$0","00","00"
+207,"how to flash esp-01 firmware",0,"$0","00","00"
+208,"esp 01 zapojení",0,"$0","00","00"
+209,"esp 01 normal mode",0,"$0","00","00"
+210,"esp 01 ota update",0,"$0","00","00"
+211,"esp 01 without arduino",0,"$0","00","00"
+212,"esp 01 input voltage",0,"$0","00","00"
+213,"esp-01 zurücksetzen",0,"$0","00","00"
+214,"esp 01 jammer",0,"$0","00","00"
+215,"usb to esp 01 adapter schematic",0,"$0","00","00"
+216,"esp 01 ebay",0,"$0","00","00"
+217,"esp 01 minimal circuit",0,"$0","00","00"
+218,"esp-01 adapter module 3.3-5v",0,"$0","00","00"
+219,"esp-01 kullanımı",0,"$0","00","00"
+220,"esp8266 esp-01 4 channel",0,"$0","00","00"
+221,"esp 01 interfacing with arduino",0,"$0","00","00"
+222,"esp 01 relay not working",0,"$0","00","00"
+223,"esp-01 3.7v",0,"$0","00","00"
+224,"what is esp 01",0,"$0","00","00"
+225,"esp-01 433mhz",0,"$0","00","00"
+226,"esp 01 light sleep",0,"$0","00","00"
+227,"tasmota for esp-01",0,"$0","00","00"
+228,"esp-01 zigbee",0,"$0","00","00"
+229,"esp 32-01",0,"$0","00","00"
+230,"arduino wifi esp 01-8266",0,"$0","00","00"
+231,"youtube esp-01",0,"$0","00","00"
+232,"esp-01 onewire",0,"$0","00","00"
+233,"esp-01 3.3v",0,"$0","00","00"
+234,"esp-01 no response",0,"$0","00","00"
+235,"esp-01 upload sketch",0,"$0","00","00"
+236,"esp 01 eeprom size",0,"$0","00","00"
+237,"esp 01 esp01s difference",0,"$0","00","00"
+238,"esp 01 tcp server",0,"$0","00","00"
+239,"at command firmware for esp 01",0,"$0","00","00"
+240,"esp-01 raspberry pi zero",0,"$0","00","00"
+241,"esp-01 to esp-01 communication",0,"$0","00","00"
+242,"esp-01 220v",0,"$0","00","00"
+243,"esp-01 hello world",0,"$0","00","00"
+244,"at commands for esp 01",0,"$0","00","00"
+245,"esp8266 with esp-01 adapter",0,"$0","00","00"
+246,"nodemcu for esp-01",0,"$0","00","00"
+247,"esp 01 data transfer",0,"$0","00","00"
+248,"esp-01 vs esp-07",0,"$0","00","00"
+249,"esp 01 klingel",0,"$0","00","00"
+250,"esp 01 with arduino mega",0,"$0","00","00"
+251,"esp-01 kaufen",0,"$0","00","00"
+252,"esp 01 get request",0,"$0","00","00"
+253,"esp 01 ewelink",0,"$0","00","00"
+254,"esp-01 vs esp-03",0,"$0","00","00"
+255,"esp-01 to esp-01",0,"$0","00","00"
+256,"esp8266 esp-01/01s ds18b20",0,"$0","00","00"
+257,"esp 01 ota not working",0,"$0","00","00"
+258,"nodemcu firmware for esp-01",0,"$0","00","00"
+259,"esp-01 kopen",0,"$0","00","00"
+260,"esp-01 nrf24l01",0,"$0","00","00"
+261,"how to use esp-01 adapter",0,"$0","00","00"
+262,"esp-01 and arduino uno",0,"$0","00","00"
+263,"esp 01 tx rx as gpio",0,"$0","00","00"
+264,"esp-01 ota arduino",0,"$0","00","00"
+265,"esp 01 default firmware",0,"$0","00","00"
+266,"esp 01 http get",0,"$0","00","00"
+267,"esp 01 as access point",0,"$0","00","00"
+268,"esp-01 esp-12e",0,"$0","00","00"
+269,"esp 01 default baud rate",0,"$0","00","00"
+270,"esp-01 home assistant",0,"$0","00","00"
+271,"esp-01 hc-sr04",0,"$0","00","00"
+272,"esp-01 with arduino ide",0,"$0","00","00"
+273,"mqtt with esp-01",0,"$0","00","00"
+274,"esp 01 en pin",0,"$0","00","00"
+275,"esp-01 jeedom",0,"$0","00","00"
+276,"esp-01 3d model",0,"$0","00","00"
+277,"esp8266 esp-01 4-channel wifi relay module",0,"$0","00","00"
+278,"power supply for esp-01",0,"$0","00","00"
+279,"esp-01 vs nrf24l01",0,"$0","00","00"
+280,"esp 01 firmware update using arduino",0,"$0","00","00"
+281,"esp 01 library for proteus",0,"$0","00","00"
+282,"esp-01 rst cause 4",0,"$0","00","00"
+283,"how to use esp 01 with arduino",0,"$0","00","00"
+284,"arduino uno with esp 01",0,"$0","00","00"
+285,"how to reset esp 01",0,"$0","00","00"
+286,"esp-01 home automation",0,"$0","00","00"
+287,"esp 01 use rx as gpio",0,"$0","00","00"
+288,"esp 01 library arduino",0,"$0","00","00"
+289,"esp 01 and ds18b20",0,"$0","00","00"
+290,"esp-01 vs esp-12f",0,"$0","00","00"
+291,"esp8266 esp-01 5v wifi relay",0,"$0","00","00"
+292,"usb to esp-01 adapter open-smart",0,"$0","00","00"
+293,"esp-01 esp-01s difference",0,"$0","00","00"
+294,"how to connect esp 01 to arduino uno",0,"$0","00","00"
+295,"esp 01 tasmota configuration",0,"$0","00","00"
+296,"esp 01 analog read",0,"$0","00","00"
+297,"esp 01 voltage divider",0,"$0","00","00"
+298,"esp8266 esp-01 2 channel",0,"$0","00","00"
+299,"esp-01 or esp-01s",0,"$0","00","00"
+300,"esp8226 01",0,"$0","00","00"
+301,"esp 01 capacitor",0,"$0","00","00"
+302,"esp-01 and dht11",0,"$0","00","00"
+303,"esp 01 pin configuration",0,"$0","00","00"
+304,"esp-01 not responding to at commands",0,"$0","00","00"
+305,"esp-01 18b20",0,"$0","00","00"
+306,"esp-01 230v",0,"$0","00","00"
+307,"esp 01 to arduino nano",0,"$0","00","00"
+308,"esp-01 1-wire",0,"$0","00","00"
+309,"esp 01 io pins",0,"$0","00","00"
+310,"esp-01 ntp clock",0,"$0","00","00"
+311,"esp kbt-01",0,"$0","00","00"
+312,"esp-01 gpio2 input",0,"$0","00","00"
+313,"esp-01 4 gpio",0,"$0","00","00"
+314,"esp-01 gpio mapping",0,"$0","00","00"
+315,"esp 01 ir transmitter",0,"$0","00","00"
+316,"yison esp-01/esp-202 development board",0,"$0","00","00"
+317,"esp-01 http client",0,"$0","00","00"
+318,"esp-01 and arduino",0,"$0","00","00"
+319,"esp-01 adapter 3.3v 5v board",0,"$0","00","00"
+320,"esp 01 and esp01s",0,"$0","00","00"
+321,"esp-01 oled 1306",0,"$0","00","00"
+322,"esp-01 http server",0,"$0","00","00"
+323,"all in one esp-01 zu usb-konverter",0,"$0","00","00"
+324,"esp 01 esp01s",0,"$0","00","00"
+325,"ance-esp-01 edic. 4",0,"$0","00","00"
+326,"esp-01/esp-202",0,"$0","00","00"
